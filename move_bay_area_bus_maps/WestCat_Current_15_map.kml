@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Document>
+    <open>1</open>
+    <Folder>
+      <name>Routes</name>
+      <visibility>0</visibility>
+      <Folder>
+        <name>&lt;b&gt;10&lt;/b&gt; - Gems and Birds</name>
+        <description>Route info page: &lt;a href="http://www.westcat.org/schedules/route10.html"&gt;http://www.westcat.org/schedules/route10.html&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;11&lt;/b&gt; - Crockett - Rodeo - Hercules</name>
+        <description>Route info page: &lt;a href="http://www.westcat.org/schedules/route11cs.html"&gt;http://www.westcat.org/schedules/route11cs.html&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;12&lt;/b&gt; - Trees and Flowers</name>
+        <description>Route info page: &lt;a href="http://www.westcat.org/schedules/route12cs.html"&gt;http://www.westcat.org/schedules/route12cs.html&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;15&lt;/b&gt; - Rodeo - Hercules (Viewpointe/North Shore Business Park)</name>
+        <description>Route info page: &lt;a href="http://www.westcat.org/schedules/route15cs.html"&gt;http://www.westcat.org/schedules/route15cs.html&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;16&lt;/b&gt; - Pinole Valley - Old Town Pinole - Richmond Parkway Transit Center</name>
+        <description>Route info page: &lt;a href="http://www.westcat.org/schedules/route16cs.html"&gt;http://www.westcat.org/schedules/route16cs.html&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;17&lt;/b&gt; - BayView - Richmond Parkway Transit Center</name>
+        <description>Route info page: &lt;a href="http://www.westcat.org/schedules/route17cs.html"&gt;http://www.westcat.org/schedules/route17cs.html&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;18&lt;/b&gt; - Tara Hills - Richmond Parkway Transit Center - Hilltop Mall</name>
+        <description>Route info page: &lt;a href="http://www.westcat.org/schedules/route18cs.html"&gt;http://www.westcat.org/schedules/route18cs.html&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;19&lt;/b&gt; - Hercules - Pinole - Richmond Parkway Transit Center - Hilltop Mall</name>
+        <description>Route info page: &lt;a href="http://www.westcat.org/schedules/route19cs.html"&gt;http://www.westcat.org/schedules/route19cs.html&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;30Z&lt;/b&gt; - Hercules Transit Center - Martinez</name>
+        <description>Route info page: &lt;a href="http://www.westcat.org/schedules/route30Zcs.html"&gt;http://www.westcat.org/schedules/route30Zcs.html&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;C3&lt;/b&gt; - Hercules Transit Center - Pinole - Contra Costa College</name>
+        <description>Route info page: &lt;a href="http://www.westcat.org/schedules/routeC3cs.html"&gt;http://www.westcat.org/schedules/routeC3cs.html&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;JL&lt;/b&gt; - Hercules Transit Center - Pinole - Richmond - BART</name>
+        <description>Route info page: &lt;a href="http://www.westcat.org/schedules/routeJcs.html"&gt;http://www.westcat.org/schedules/routeJcs.html&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;JPX&lt;/b&gt; - Hercules Transit Center - El Cerrito del Norte BART</name>
+        <description>Route info page: &lt;a href="http://www.westcat.org/schedules/routeJPXcs.html"&gt;http://www.westcat.org/schedules/routeJPXcs.html&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;JR&lt;/b&gt; - Hercules Transit Center - Pinole - Richmond - BART</name>
+        <description>Route info page: &lt;a href="http://www.westcat.org/schedules/routeJcs.html"&gt;http://www.westcat.org/schedules/routeJcs.html&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;JX&lt;/b&gt; - Hercules Transit Center - El Cerrito del Norte BART</name>
+        <description>Route info page: &lt;a href="http://www.westcat.org/schedules/routeJPXcs.html"&gt;http://www.westcat.org/schedules/routeJPXcs.html&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;Lynx&lt;/b&gt; - Rodeo/Hercules/San Francisco Transbay Terminal</name>
+        <description>Route info page: &lt;a href="http://www.westcat.org/schedules/routeLYNXcs.html"&gt;http://www.westcat.org/schedules/routeLYNXcs.html&lt;/a&gt;</description>
+      </Folder>
+    </Folder><Style id="route_10">
+      <LineStyle>
+        <width>2</width>
+        <color>ff50c6f8</color>
+      </LineStyle>
+    </Style><Style id="route_11">
+      <LineStyle>
+        <width>2</width>
+        <color>ff856091</color>
+      </LineStyle>
+    </Style><Style id="route_12">
+      <LineStyle>
+        <width>2</width>
+        <color>ff679378</color>
+      </LineStyle>
+    </Style><Style id="route_15">
+      <LineStyle>
+        <width>2</width>
+        <color>ff68914b</color>
+      </LineStyle>
+    </Style><Style id="route_16">
+      <LineStyle>
+        <width>2</width>
+        <color>ffb88f6c</color>
+      </LineStyle>
+    </Style><Style id="route_17">
+      <LineStyle>
+        <width>2</width>
+        <color>ff76819d</color>
+      </LineStyle>
+    </Style><Style id="route_18">
+      <LineStyle>
+        <width>2</width>
+        <color>ffadad4b</color>
+      </LineStyle>
+    </Style><Style id="route_19">
+      <LineStyle>
+        <width>2</width>
+        <color>ff935b69</color>
+      </LineStyle>
+    </Style><Style id="route_30Z">
+      <LineStyle>
+        <width>2</width>
+        <color>ff566642</color>
+      </LineStyle>
+    </Style><Style id="route_C3">
+      <LineStyle>
+        <width>2</width>
+        <color>ff583918</color>
+      </LineStyle>
+    </Style><Style id="route_JL">
+      <LineStyle>
+        <width>2</width>
+        <color>ff3d41ce</color>
+      </LineStyle>
+    </Style><Style id="route_JPX">
+      <LineStyle>
+        <width>2</width>
+        <color>ff3d41ce</color>
+      </LineStyle>
+    </Style><Style id="route_JR">
+      <LineStyle>
+        <width>2</width>
+        <color>ff3d41ce</color>
+      </LineStyle>
+    </Style><Style id="route_JX">
+      <LineStyle>
+        <width>2</width>
+        <color>ff3d41ce</color>
+      </LineStyle>
+    </Style><Style id="route_Lynx">
+      <LineStyle>
+        <width>2</width>
+        <color>ff2b2674</color>
+      </LineStyle>
+    </Style>
+  </Document>
+</kml>

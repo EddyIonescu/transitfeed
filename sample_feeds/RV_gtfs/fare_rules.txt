@@ -1,0 +1,5 @@
+fare_id,route_id,origin_id,destination_id,contains_id
+1778,,57854,57854,
+1779,,57854,57855,
+1779,,57855,57854,
+1779,,57855,57855,

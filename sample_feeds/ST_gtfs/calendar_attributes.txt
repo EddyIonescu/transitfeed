@@ -1,0 +1,7 @@
+service_id,service_description
+"73005","Starting 7/1/18 (Sunday only)"
+"73006","Starting 7/1/18 (Saturday only)"
+"73007","Starting 7/1/18 (Monday-Friday)"
+"73008","Starting 7/1/18 (Friday only)"
+"73009","Starting 7/1/18 (Monday-Thursday)"
+"73991","SpecialService"

@@ -1,0 +1,8 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+"SF - Oak - Ala","SB",SF - Oak - Ala,San Francisco - Oakland via Alameda,"",4,"","ec7501","000000"
+"HB - SF","SB",HB - SF,Harbor Bay - San Francisco Ferry Building,"",4,"","d63956","000000"
+"South SF - Ala - Oak","SB",South SF - Ala - Oak,South SF - Oakland - Alameda,"",4,"","c60bb6","ffffff"
+"Vallejo - SF Ferry Building","SB",Vallejo - SF Ferry Building,Vallejo - San Francisco Ferry Building (Gate B),"",4,"","008e9d","ffffff"
+"SF - Ala - Oak","SB",SF - Ala - Oak,San Francisco - Alameda via Oakland,"",4,"","ec7501","000000"
+"Vallejo - SF Pier 41","SB",Vallejo - SF Pier 41,Vallejo - San Francisco Pier 41,"",4,"","008e9d","000000"
+"South SF - Oak - Ala","SB",South SF - Oak - Ala,South SF - Alameda via Oakland,"",4,"","c60bb6","000000"

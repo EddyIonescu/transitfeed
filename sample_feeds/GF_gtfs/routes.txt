@@ -1,0 +1,4 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+"LF","GF",LF,,"",4,"http://goldengateferry.org/schedules/Larkspur.php","0000FF","FFFFFF"
+"SF","GF",SF,,"",4,"http://goldengateferry.org/schedules/Sausalito.php","0000FF","FFFFFF"
+"TF","GF",TF,,"",4,"","0000FF","FFFFFF"

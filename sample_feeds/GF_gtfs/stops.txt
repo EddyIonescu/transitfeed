@@ -1,0 +1,5 @@
+stop_id,stop_code,stop_name,stop_lat,stop_lon,zone_id,stop_desc,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding
+"43004","43004",Larkspur Ferry Terminal,37.945316,-122.508736,"57972","","","","","",""
+"43000","43000",San Francisco Ferry Terminal,37.796169,-122.391617,"57970","","","","","",""
+"43003","43003",Sausalito Ferry Terminal,37.856403,-122.478249,"57971","","","","","",""
+"43007","43007",Tiburon Ferry,37.873226,-122.456276,"57972","","","","","",""

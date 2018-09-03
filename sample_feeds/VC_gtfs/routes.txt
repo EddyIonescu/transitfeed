@@ -1,0 +1,7 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+"Route 1","VC",,"Route 1","",3,"","ff0000","ffffff"
+"Route 2","VC",,"Route 2","",3,"","c45911","ffffff"
+"Route 3","VC",,"Route 3","",3,"","ff00ff","ffffff"
+"Route 4","VC",,"Route 4","",3,"","00b050","ffffff"
+"Route 5","VC",,"Route 5","",3,"","0070c0","ffffff"
+"Route 6","VC",,"Route 6","",3,"","663300","ffffff"

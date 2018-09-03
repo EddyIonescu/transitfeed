@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Document>
+    <open>1</open>
+    <Folder>
+      <name>Routes</name>
+      <visibility>0</visibility>
+      <Folder>
+        <name>&lt;b&gt;LF&lt;/b&gt;</name>
+        <description>Route info page: &lt;a href="http://goldengateferry.org/schedules/Larkspur.php"&gt;http://goldengateferry.org/schedules/Larkspur.php&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;SF&lt;/b&gt;</name>
+        <description>Route info page: &lt;a href="http://goldengateferry.org/schedules/Sausalito.php"&gt;http://goldengateferry.org/schedules/Sausalito.php&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;TF&lt;/b&gt;</name>
+      </Folder>
+    </Folder><Style id="route_LF">
+      <LineStyle>
+        <width>2</width>
+        <color>ffff0000</color>
+      </LineStyle>
+    </Style><Style id="route_SF">
+      <LineStyle>
+        <width>2</width>
+        <color>ffff0000</color>
+      </LineStyle>
+    </Style><Style id="route_TF">
+      <LineStyle>
+        <width>2</width>
+        <color>ffff0000</color>
+      </LineStyle>
+    </Style>
+  </Document>
+</kml>

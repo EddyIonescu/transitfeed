@@ -1,0 +1,10 @@
+route_id,direction_id,direction
+11092,0,Outbound
+11092,1,Inbound
+11095,0,Unknown
+11096,0,Unknown
+11097,0,Unknown
+11099,0,Outbound
+11099,1,Inbound
+11100,0,Outbound
+11100,1,Inbound

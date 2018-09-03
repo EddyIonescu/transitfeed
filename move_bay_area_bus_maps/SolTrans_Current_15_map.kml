@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Document>
+    <open>1</open>
+    <Folder>
+      <name>Routes</name>
+      <visibility>0</visibility>
+      <Folder>
+        <name>&lt;b&gt;15&lt;/b&gt; - Benicia Schools</name>
+        <description>Benicia Middle Schoool - Benicia High School&lt;br/&gt;Route info page: &lt;a href="http://www.soltransride.com/routes/schooltrippers/limitedservice/"&gt;http://www.soltransride.com/routes/schooltrippers/limitedservice/&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;17&lt;/b&gt; - Benicia Schools</name>
+        <description>Benicia Middle Schoool - Benicia High School&lt;br/&gt;Route info page: &lt;a href="http://www.soltransride.com/routes/schooltrippers/limitedservice/"&gt;http://www.soltransride.com/routes/schooltrippers/limitedservice/&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;1&lt;/b&gt; - Broadway</name>
+        <description>Northwest Vallejo - Vallejo Transit Center&lt;br/&gt;Route info page: &lt;a href="http://www.soltransride.com/routes/local/route-1/"&gt;http://www.soltransride.com/routes/local/route-1/&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;20&lt;/b&gt; - Columbus</name>
+        <description>Downtown Benicia - Sereno Transit Center&lt;br/&gt;Route info page: &lt;a href="http://www.soltransride.com/routes/local/route-20/"&gt;http://www.soltransride.com/routes/local/route-20/&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;2&lt;/b&gt; - Northeast</name>
+        <description>Vallejo Corners - Vallejo Transit Center&lt;br/&gt;Route info page: &lt;a href="http://www.soltransride.com/routes/local/route-2/"&gt;http://www.soltransride.com/routes/local/route-2/&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;38&lt;/b&gt; - Jesse Bethel</name>
+        <description>Route info page: &lt;a href="http://www.soltransride.com/routes/schooltrippers/route-38"&gt;http://www.soltransride.com/routes/schooltrippers/route-38&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;3&lt;/b&gt; - Glen Cove</name>
+        <description>South Vallejo - Vallejo Transit Center&lt;br/&gt;Route info page: &lt;a href="http://www.soltransride.com/routes/local/route-3/"&gt;http://www.soltransride.com/routes/local/route-3/&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;4&lt;/b&gt; - Tuolumne</name>
+        <description>Sereno Transit Center - Vallejo Transit Center&lt;br/&gt;Route info page: &lt;a href="http://www.soltransride.com/routes/local/route-4/"&gt;http://www.soltransride.com/routes/local/route-4/&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;5&lt;/b&gt; - Fairgrounds</name>
+        <description>Six Flags - Vallejo Transit Center&lt;br/&gt;Route info page: &lt;a href="http://www.soltransride.com/routes/local/route-5/"&gt;http://www.soltransride.com/routes/local/route-5/&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;6&lt;/b&gt; - Tennessee</name>
+        <description>Hogan M.S. - Vallejo Transit Center&lt;br/&gt;Route info page: &lt;a href="http://www.soltransride.com/routes/local/route-6/"&gt;http://www.soltransride.com/routes/local/route-6/&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;78&lt;/b&gt; - I-680 SolanoExpress</name>
+        <description>Vallejo Transit Center - Walnut Creek BART&lt;br/&gt;Route info page: &lt;a href="http://www.soltransride.com/routes/solanoexpress/route-78/"&gt;http://www.soltransride.com/routes/solanoexpress/route-78/&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;7&lt;/b&gt; - Springs Rd</name>
+        <description>Gateway Plaza - Vallejo Transit Center&lt;br/&gt;Route info page: &lt;a href="http://www.soltransride.com/routes/local/route-7/"&gt;http://www.soltransride.com/routes/local/route-7/&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;80&lt;/b&gt; - I-80 SolanoExpress</name>
+        <description>Vallejo Transit Center - El Cerrito Del Norte BART&lt;br/&gt;Route info page: &lt;a href="http://www.soltransride.com/routes/solanoexpress/route-80/"&gt;http://www.soltransride.com/routes/solanoexpress/route-80/&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;82&lt;/b&gt; - SF Express</name>
+        <description>Route info page: &lt;a href="http://www.soltransride.com/routes/solanoexpress/route-80/"&gt;http://www.soltransride.com/routes/solanoexpress/route-80/&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;85&lt;/b&gt; - Fairfield SolanoExpress</name>
+        <description>Vallejo Transit Center - Solano Town Center&lt;br/&gt;Route info page: &lt;a href="http://www.soltransride.com/routes/solanoexpress/route-85/"&gt;http://www.soltransride.com/routes/solanoexpress/route-85/&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;8&lt;/b&gt; - Benicia Rd</name>
+        <description>Hogan M.S. - Vallejo Transit Center&lt;br/&gt;Route info page: &lt;a href="http://www.soltransride.com/routes/local/route-8/"&gt;http://www.soltransride.com/routes/local/route-8/&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;Y&lt;/b&gt; - Yellow Line</name>
+        <description>Vallejo Transit Center - Walnut Creek BART&lt;br/&gt;Route info page: &lt;a href="http://www.soltransride.com/routes/solanoexpress/yellow"&gt;http://www.soltransride.com/routes/solanoexpress/yellow&lt;/a&gt;</description>
+      </Folder>
+    </Folder><Style id="route_15">
+      <LineStyle>
+        <width>2</width>
+        <color>ff297ff5</color>
+      </LineStyle>
+    </Style><Style id="route_17">
+      <LineStyle>
+        <width>2</width>
+        <color>ffac5e26</color>
+      </LineStyle>
+    </Style><Style id="route_1">
+      <LineStyle>
+        <width>2</width>
+        <color>ff321ada</color>
+      </LineStyle>
+    </Style><Style id="route_20">
+      <LineStyle>
+        <width>2</width>
+        <color>ff321ada</color>
+      </LineStyle>
+    </Style><Style id="route_2">
+      <LineStyle>
+        <width>2</width>
+        <color>ff8f249f</color>
+      </LineStyle>
+    </Style><Style id="route_38">
+      <LineStyle>
+        <width>2</width>
+        <color>ff2b77a0</color>
+      </LineStyle>
+    </Style><Style id="route_3">
+      <LineStyle>
+        <width>2</width>
+        <color>ff49ae23</color>
+      </LineStyle>
+    </Style><Style id="route_4">
+      <LineStyle>
+        <width>2</width>
+        <color>ffcdac00</color>
+      </LineStyle>
+    </Style><Style id="route_5">
+      <LineStyle>
+        <width>2</width>
+        <color>ff297ff5</color>
+      </LineStyle>
+    </Style><Style id="route_6">
+      <LineStyle>
+        <width>2</width>
+        <color>ff2561a1</color>
+      </LineStyle>
+    </Style><Style id="route_78">
+      <LineStyle>
+        <width>2</width>
+        <color>ff7e275f</color>
+      </LineStyle>
+    </Style><Style id="route_7">
+      <LineStyle>
+        <width>2</width>
+        <color>ffac5e26</color>
+      </LineStyle>
+    </Style><Style id="route_80">
+      <LineStyle>
+        <width>2</width>
+        <color>ff3f0083</color>
+      </LineStyle>
+    </Style><Style id="route_82">
+      <LineStyle>
+        <width>2</width>
+        <color>ff8778b8</color>
+      </LineStyle>
+    </Style><Style id="route_85">
+      <LineStyle>
+        <width>2</width>
+        <color>ff9aae00</color>
+      </LineStyle>
+    </Style><Style id="route_8">
+      <LineStyle>
+        <width>2</width>
+        <color>ff366a00</color>
+      </LineStyle>
+    </Style><Style id="route_Y">
+      <LineStyle>
+        <width>2</width>
+        <color>ff00baff</color>
+      </LineStyle>
+    </Style>
+  </Document>
+</kml>

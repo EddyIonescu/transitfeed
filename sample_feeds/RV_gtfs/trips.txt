@@ -1,0 +1,11 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,trip_short_name,bikes_allowed,wheelchair_accessible
+52,72849,t_153_b_529_tn_0,RIO VISTA,0,,p_691,,,
+52,72849,t_146_b_529_tn_0,Southbound,1,,p_2363,,,
+50,72849,t_147_b_529_tn_0,Eastbound,0,,p_693,,,
+50,72849,t_149_b_529_tn_0,Eastbound,0,,p_693,,,
+50,72849,t_144_b_529_tn_0,Eastbound,0,,p_693,,,
+50,72849,t_151_b_529_tn_0,Westbound,1,,p_700,,,
+50,72849,t_145_b_529_tn_0,Westbound,1,,p_695,,,
+50,72849,t_152_b_529_tn_0,Westbound,1,,p_694,,,
+50,72849,t_148_b_529_tn_0,Eastbound,0,,p_692,,,
+50,72849,t_150_b_529_tn_0,Westbound,1,,p_2364,,,

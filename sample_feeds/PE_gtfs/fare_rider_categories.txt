@@ -1,0 +1,4 @@
+fare_id,rider_category_id,price
+2268,6,0.75
+2268,4,1.00
+2268,2,0.75

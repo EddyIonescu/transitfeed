@@ -1,0 +1,5 @@
+route_id,direction_id,direction
+CC,0,Inbound
+CC,1,Outbound
+SF,0,Inbound
+SF,1,Outbound

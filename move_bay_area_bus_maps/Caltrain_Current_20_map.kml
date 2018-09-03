@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Document>
+    <open>1</open>
+    <Folder>
+      <name>Routes</name>
+      <visibility>0</visibility>
+      <Folder>
+        <name>&lt;b&gt;Bullet&lt;/b&gt; - Baby Bullet</name>
+      </Folder><Folder>
+        <name>&lt;b&gt;Giants Special&lt;/b&gt; - Giants Special Northbound on Game Days</name>
+      </Folder><Folder>
+        <name>&lt;b&gt;Local&lt;/b&gt;</name>
+      </Folder><Folder>
+        <name>&lt;b&gt;Special&lt;/b&gt; - Special Event Extra Service</name>
+      </Folder><Folder>
+        <name>Limited</name>
+      </Folder><Folder>
+        <name>TaSJ-Shuttle</name>
+      </Folder>
+    </Folder><Style id="route_Bullet">
+      <LineStyle>
+        <width>2</width>
+        <color>ff3718e3</color>
+      </LineStyle>
+    </Style><Style id="route_Giants Special">
+      <LineStyle>
+        <width>2</width>
+        <color>ff0080ff</color>
+      </LineStyle>
+    </Style><Style id="route_Local">
+      <LineStyle>
+        <width>2</width>
+        <color>ffc5c5c5</color>
+      </LineStyle>
+    </Style><Style id="route_Special">
+      <LineStyle>
+        <width>2</width>
+        <color>ffff9200</color>
+      </LineStyle>
+    </Style><Style id="route_Limited">
+      <LineStyle>
+        <width>2</width>
+        <color>ffb5f0fe</color>
+      </LineStyle>
+    </Style><Style id="route_TaSJ-Shuttle">
+      <LineStyle>
+        <width>2</width>
+        <color>ff70c569</color>
+      </LineStyle>
+    </Style>
+  </Document>
+</kml>

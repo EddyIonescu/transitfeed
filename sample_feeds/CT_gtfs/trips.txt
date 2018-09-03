@@ -1,0 +1,180 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,trip_short_name,bikes_allowed,wheelchair_accessible
+Local,72981,104,Tamien Caltrain Station,0,,cal_sf_tam,104,1,1
+Local,72981,192,Tamien Caltrain Station,0,,cal_sf_tam,192,1,1
+Local,72981,194,Tamien Caltrain Station,0,,cal_sf_tam,194,1,1
+Local,72981,198,San Jose Diridon Caltrain Station,0,,cal_sf_sj,198,1,1
+Local,72981,102,San Jose Diridon Caltrain Station,0,,cal_sf_sj,102,1,1
+Local,72981,134,San Jose Diridon Caltrain Station,0,,cal_sf_sj,134,1,1
+Local,72981,138,San Jose Diridon Caltrain Station,0,,cal_sf_sj,138,1,1
+Local,72981,142,San Jose Diridon Caltrain Station,0,,cal_sf_sj,142,1,1
+Local,72981,146,San Jose Diridon Caltrain Station,0,,cal_sf_sj,146,1,1
+Local,72981,150,San Jose Diridon Caltrain Station,0,,cal_sf_sj,150,1,1
+Local,72981,152,San Jose Diridon Caltrain Station,0,,cal_sf_sj,152,1,1
+Local,72981,190,San Jose Diridon Caltrain Station,0,,cal_sf_sj,190,1,1
+Local,72981,196,San Jose Diridon Caltrain Station,0,,cal_sf_sj,196,1,1
+Local,72983,444,San Jose Diridon Caltrain Station,0,,cal_sf_sj,444,1,1
+Local,72982,422,San Jose Diridon Caltrain Station,0,,cal_sf_sj,422,1,1
+Local,72982,424,San Jose Diridon Caltrain Station,0,,cal_sf_sj,424,1,1
+Local,72982,426,San Jose Diridon Caltrain Station,0,,cal_sf_sj,426,1,1
+Local,72982,428,San Jose Diridon Caltrain Station,0,,cal_sf_sj,428,1,1
+Local,72982,430,San Jose Diridon Caltrain Station,0,,cal_sf_sj,430,1,1
+Local,72982,432,San Jose Diridon Caltrain Station,0,,cal_sf_sj,432,1,1
+Local,72982,434,San Jose Diridon Caltrain Station,0,,cal_sf_sj,434,1,1
+Local,72982,436,San Jose Diridon Caltrain Station,0,,cal_sf_sj,436,1,1
+Local,72982,438,San Jose Diridon Caltrain Station,0,,cal_sf_sj,438,1,1
+Local,72982,440,San Jose Diridon Caltrain Station,0,,cal_sf_sj,440,1,1
+Local,72983,442,San Jose Diridon Caltrain Station,0,,cal_sf_sj,442,1,1
+Local,72983,421,San Francisco Caltrain Station,1,,cal_sj_sf,421,1,1
+Local,72982,423,San Francisco Caltrain Station,1,,cal_sj_sf,423,1,1
+Local,72982,425,San Francisco Caltrain Station,1,,cal_sj_sf,425,1,1
+Local,72982,427,San Francisco Caltrain Station,1,,cal_sj_sf,427,1,1
+Local,72982,429,San Francisco Caltrain Station,1,,cal_sj_sf,429,1,1
+Local,72982,431,San Francisco Caltrain Station,1,,cal_sj_sf,431,1,1
+Local,72982,433,San Francisco Caltrain Station,1,,cal_sj_sf,433,1,1
+Local,72982,435,San Francisco Caltrain Station,1,,cal_sj_sf,435,1,1
+Local,72982,437,San Francisco Caltrain Station,1,,cal_sj_sf,437,1,1
+Local,72982,439,San Francisco Caltrain Station,1,,cal_sj_sf,439,1,1
+Local,72982,441,San Francisco Caltrain Station,1,,cal_sj_sf,441,1,1
+Local,72983,443,San Francisco Caltrain Station,1,,cal_sj_sf,443,1,1
+Local,72981,101,San Francisco Caltrain Station,1,,cal_sj_sf,101,1,1
+Local,72981,135,San Francisco Caltrain Station,1,,cal_sj_sf,135,1,1
+Local,72981,139,San Francisco Caltrain Station,1,,cal_sj_sf,139,1,1
+Local,72981,143,San Francisco Caltrain Station,1,,cal_sj_sf,143,1,1
+Local,72981,147,San Francisco Caltrain Station,1,,cal_sj_sf,147,1,1
+Local,72981,151,San Francisco Caltrain Station,1,,cal_sj_sf,151,1,1
+Local,72981,155,San Francisco Caltrain Station,1,,cal_sj_sf,155,1,1
+Local,72981,191,San Francisco Caltrain Station,1,,cal_sj_sf,191,1,1
+Local,72981,193,San Francisco Caltrain Station,1,,cal_sj_sf,193,1,1
+Local,72981,199,San Francisco Caltrain Station,1,,cal_sj_sf,199,1,1
+Local,72981,156,Gilroy Caltrain Station,0,,cal_sf_gil,156,1,1
+Local,72981,103,San Francisco Caltrain Station,1,,cal_tam_sf,103,1,1
+Local,72981,195,San Francisco Caltrain Station,1,,cal_tam_sf,195,1,1
+Local,72981,197,San Francisco Caltrain Station,1,,cal_tam_sf,197,1,1
+Local,72981,159,San Francisco Caltrain Station,1,,cal_sj_sf,159,1,1
+TaSJ-Shuttle,72982,shuttle423,San Jose Diridon Caltrain Station,0,,cal_tam_sj,Tamien SJ shuttle423,0,0
+TaSJ-Shuttle,72982,shuttle801,San Jose Diridon Caltrain Station,0,,cal_tam_sj,Tamien SJ shuttle801,0,0
+TaSJ-Shuttle,72982,shuttle425,San Jose Diridon Caltrain Station,0,,cal_tam_sj,Tamien SJ shuttle425,0,0
+TaSJ-Shuttle,72982,shuttle427,San Jose Diridon Caltrain Station,0,,cal_tam_sj,Tamien SJ shuttle427,0,0
+TaSJ-Shuttle,72982,shuttle429,San Jose Diridon Caltrain Station,0,,cal_tam_sj,Tamien SJ shuttle429,0,0
+TaSJ-Shuttle,72982,shuttle431,San Jose Diridon Caltrain Station,0,,cal_tam_sj,Tamien SJ shuttle431,0,0
+TaSJ-Shuttle,72982,shuttle433,San Jose Diridon Caltrain Station,0,,cal_tam_sj,Tamien SJ shuttle433,0,0
+TaSJ-Shuttle,72982,shuttle803,San Jose Diridon Caltrain Station,0,,cal_tam_sj,Tamien SJ shuttle803,0,0
+TaSJ-Shuttle,72982,shuttle435,San Jose Diridon Caltrain Station,0,,cal_tam_sj,Tamien SJ shuttle435,0,0
+TaSJ-Shuttle,72982,shuttle437,San Jose Diridon Caltrain Station,0,,cal_tam_sj,Tamien SJ shuttle437,0,0
+TaSJ-Shuttle,72982,shuttle439,San Jose Diridon Caltrain Station,0,,cal_tam_sj,Tamien SJ shuttle439,0,0
+TaSJ-Shuttle,72982,shuttle441,San Jose Diridon Caltrain Station,0,,cal_tam_sj,Tamien SJ shuttle441,0,0
+TaSJ-Shuttle,72982,shuttle422,Tamien Caltrain Station,1,,cal_sj_tam,Tamien SJ shuttle422,0,0
+TaSJ-Shuttle,72982,shuttle424,Tamien Caltrain Station,1,,cal_sj_tam,Tamien SJ shuttle424,0,0
+TaSJ-Shuttle,72982,shuttle426,Tamien Caltrain Station,1,,cal_sj_tam,Tamien SJ shuttle426,0,0
+TaSJ-Shuttle,72982,shuttle802,Tamien Caltrain Station,1,,cal_sj_tam,Tamien SJ shuttle802,0,0
+TaSJ-Shuttle,72982,shuttle428,Tamien Caltrain Station,1,,cal_sj_tam,Tamien SJ shuttle428,0,0
+TaSJ-Shuttle,72982,shuttle430,Tamien Caltrain Station,1,,cal_sj_tam,Tamien SJ shuttle430,0,0
+TaSJ-Shuttle,72982,shuttle432,Tamien Caltrain Station,1,,cal_sj_tam,Tamien SJ shuttle432,0,0
+TaSJ-Shuttle,72982,shuttle434,Tamien Caltrain Station,1,,cal_sj_tam,Tamien SJ shuttle434,0,0
+TaSJ-Shuttle,72982,shuttle804,Tamien Caltrain Station,1,,cal_sj_tam,Tamien SJ shuttle804,0,0
+TaSJ-Shuttle,72982,shuttle438,Tamien Caltrain Station,1,,cal_sj_tam,Tamien SJ shuttle438,0,0
+Limited,72981,217,San Francisco Caltrain Station,0,,cal_gil_sf,217,1,1
+Limited,72981,261,San Francisco Caltrain Station,0,,cal_tam_sf,261,1,1
+Limited,72981,269,San Francisco Caltrain Station,0,,cal_tam_sf,269,1,1
+Limited,72981,279,San Francisco Caltrain Station,0,,cal_tam_sf,279,1,1
+Limited,72981,227,San Francisco Caltrain Station,0,,cal_gil_sf,227,1,1
+Limited,72981,211,San Francisco Caltrain Station,0,,cal_sj_sf,211,1,1
+Limited,72981,215,San Francisco Caltrain Station,0,,cal_sj_sf,215,1,1
+Limited,72981,225,San Francisco Caltrain Station,0,,cal_sj_sf,225,1,1
+Limited,72981,232,San Jose Diridon Caltrain Station,1,,cal_sf_sj,232,1,1
+Limited,72981,289,San Francisco Caltrain Station,0,,cal_tam_sf,289,1,1
+Limited,72981,231,San Francisco Caltrain Station,0,,cal_sj_sf,231,1,1
+Limited,72981,222,San Jose Diridon Caltrain Station,1,,cal_sf_sj,222,1,1
+Limited,72981,278,Tamien Caltrain Station,1,,cal_sf_tam,278,1,1
+Limited,72981,288,Tamien Caltrain Station,1,,cal_sf_tam,288,1,1
+Limited,72981,268,Gilroy Caltrain Station,1,,cal_sf_gil,268,1,1
+Limited,72981,207,San Francisco Caltrain Station,0,,cal_tam_sf,207,1,1
+Limited,72981,236,Tamien Caltrain Station,1,,cal_sf_tam,236,1,1
+Limited,72981,254,Tamien Caltrain Station,1,,cal_sf_tam,254,1,1
+Limited,72981,258,Tamien Caltrain Station,1,,cal_sf_tam,258,1,1
+Limited,72981,206,San Jose Diridon Caltrain Station,1,,cal_sf_sj,206,1,1
+Limited,72981,216,San Jose Diridon Caltrain Station,1,,cal_sf_sj,216,1,1
+Limited,72981,226,San Jose Diridon Caltrain Station,1,,cal_sf_sj,226,1,1
+Limited,72981,262,San Jose Diridon Caltrain Station,1,,cal_sf_sj,262,1,1
+Limited,72981,272,San Jose Diridon Caltrain Station,1,,cal_sf_sj,272,1,1
+Limited,72981,274,Gilroy Caltrain Station,1,,cal_sf_gil,274,1,1
+Limited,72981,282,San Jose Diridon Caltrain Station,1,,cal_sf_sj,282,1,1
+Limited,72981,212,San Jose Diridon Caltrain Station,1,,cal_sf_sj,212,1,1
+Limited,72981,287,San Francisco Caltrain Station,0,,cal_sj_sf,287,1,1
+Limited,72981,263,San Francisco Caltrain Station,0,,cal_sj_sf,263,1,1
+Limited,72981,273,San Francisco Caltrain Station,0,,cal_sj_sf,273,1,1
+Limited,72981,283,San Francisco Caltrain Station,0,,cal_sj_sf,283,1,1
+Limited,72981,267,San Francisco Caltrain Station,0,,cal_sj_sf,267,1,1
+Limited,72981,277,San Francisco Caltrain Station,0,,cal_sj_sf,277,1,1
+Limited,72981,208,San Jose Diridon Caltrain Station,1,,cal_sf_sj,208,1,1
+Limited,72981,218,San Jose Diridon Caltrain Station,1,,cal_sf_sj,218,1,1
+Limited,72981,228,San Jose Diridon Caltrain Station,1,,cal_sf_sj,228,1,1
+Limited,72981,264,San Jose Diridon Caltrain Station,1,,cal_sf_sj,264,1,1
+Limited,72981,284,San Jose Diridon Caltrain Station,1,,cal_sf_sj,284,1,1
+Limited,72981,233,San Francisco Caltrain Station,0,,cal_tam_sf,233,1,1
+Limited,72981,237,San Francisco Caltrain Station,0,,cal_tam_sf,237,1,1
+Limited,72981,257,San Francisco Caltrain Station,0,,cal_tam_sf,257,1,1
+Limited,72981,221,San Francisco Caltrain Station,0,,cal_gil_sf,221,1,1
+Special,74076,S01_06242018,Pride Special to San Francisco,0,,cal_sj_sf,S01,1,1
+Special,74076,S03_06242018,Pride Special to San Francisco,0,,cal_sj_sf,S03,1,1
+Giants Special,74083,S03_07282018,Giants Special to San Francisco,0,,cal_sj_sf,S03,1,1
+Giants Special,74086,S03_08112018,Giants Special to San Francisco,0,,cal_sj_sf,S03,1,1
+Giants Special,74203,S03_09152018,Giants Special to San Francisco,0,,cal_sj_sf,S03,1,1
+Giants Special,74081,S03_07142018,Giants Special to San Francisco,0,,cal_sj_sf,S03,1,1
+Giants Special,74074,S03_06232018,Giants Special to San Francisco,0,,cal_sj_sf,S03,1,1
+Giants Special,74075,S07_06242018,Giants Special to San Francisco,0,,cal_sj_sf,S07,1,1
+Giants Special,74078,S03_07072018,Giants Special to San Francisco,0,,cal_sj_sf,S03,1,1
+Giants Special,74079,S03_07082018,Giants Special to San Francisco,0,,cal_sj_sf,S03,1,1
+Giants Special,74082,S03_07152018,Giants Special to San Francisco,0,,cal_sj_sf,S03,1,1
+Giants Special,74084,S03_07292018,Giants Special to San Francisco,0,,cal_sj_sf,S03,1,1
+Giants Special,74087,S03_08122018,Giants Special to San Francisco,0,,cal_sj_sf,S03,1,1
+Giants Special,74088,S03_08252018,Giants Special to San Francisco,0,,cal_sj_sf,S03,1,1
+Giants Special,74089,S03_08262018,Giants Special to San Francisco,0,,cal_sj_sf,S03,1,1
+Giants Special,74090,S03_09012018,Giants Special to San Francisco,0,,cal_sj_sf,S03,1,1
+Giants Special,74091,S03_09022018,Giants Special to San Francisco,0,,cal_sj_sf,S03,1,1
+Giants Special,74083,S01_07282018,Giants Special to San Francisco,0,,cal_sj_sf,S01,1,1
+Giants Special,74086,S01_08112018,Giants Special to San Francisco,0,,cal_sj_sf,S01,1,1
+Giants Special,74203,S01_09152018,Giants Special to San Francisco,0,,cal_sj_sf,S01,1,1
+Giants Special,74081,S01_07142018,Giants Special to San Francisco,0,,cal_sj_sf,S01,1,1
+Giants Special,74074,S01_06232018,Giants Special to San Francisco,0,,cal_sj_sf,S01,1,1
+Giants Special,74075,S05_06242018,Giants Special to San Francisco,0,,cal_sj_sf,S05,1,1
+Giants Special,74078,S01_07072018,Giants Special to San Francisco,0,,cal_sj_sf,S01,1,1
+Giants Special,74079,S01_07082018,Giants Special to San Francisco,0,,cal_sj_sf,S01,1,1
+Giants Special,74082,S01_07152018,Giants Special to San Francisco,0,,cal_sj_sf,S01,1,1
+Giants Special,74084,S01_07292018,Giants Special to San Francisco,0,,cal_sj_sf,S01,1,1
+Giants Special,74087,S01_08122018,Giants Special to San Francisco,0,,cal_sj_sf,S01,1,1
+Giants Special,74088,S01_08252018,Giants Special to San Francisco,0,,cal_sj_sf,S01,1,1
+Giants Special,74089,S01_08262018,Giants Special to San Francisco,0,,cal_sj_sf,S01,1,1
+Giants Special,74090,S01_09012018,Giants Special to San Francisco,0,,cal_sj_sf,S01,1,1
+Giants Special,74091,S01_09022018,Giants Special to San Francisco,0,,cal_sj_sf,S01,1,1
+Giants Special,74073,S01_06202018,Giants Special to San Francisco,0,,cal_sj_sf,S01,1,1
+Giants Special,74077,S01_06282018,Giants Special to San Francisco,0,,cal_sj_sf,S01,1,1
+Giants Special,74080,S01_07112018,Giants Special to San Francisco,0,,cal_sj_sf,S01,1,1
+Giants Special,74085,S01_08072018,Giants Special to San Francisco,0,,cal_sj_sf,S01,1,1
+Giants Special,74092,S01_09122018,Giants Special to San Francisco,0,,cal_sj_sf,S01,1,1
+Bullet,72981,305,San Francisco Caltrain Station,0,,cal_sj_sf,305,1,1
+Bullet,72981,313,San Francisco Caltrain Station,0,,cal_sj_sf,313,1,1
+Bullet,72981,323,San Francisco Caltrain Station,0,,cal_sj_sf,323,1,1
+Bullet,72981,309,San Francisco Caltrain Station,0,,cal_tam_sf,309,1,1
+Bullet,72981,319,San Francisco Caltrain Station,0,,cal_tam_sf,319,1,1
+Bullet,72981,329,San Francisco Caltrain Station,0,,cal_tam_sf,329,1,1
+Bullet,72981,310,Tamien Caltrain Station,1,,cal_sf_tam,310,1,1
+Bullet,72981,320,Tamien Caltrain Station,1,,cal_sf_tam,320,1,1
+Bullet,72981,330,Tamien Caltrain Station,1,,cal_sf_tam,330,1,1
+Bullet,72981,360,San Jose Diridon Caltrain Station,1,,cal_sf_sj,360,1,1
+Bullet,72981,370,San Jose Diridon Caltrain Station,1,,cal_sf_sj,370,1,1
+Bullet,72981,380,San Jose Diridon Caltrain Station,1,,cal_sf_sj,380,1,1
+Bullet,72981,371,San Francisco Caltrain Station,0,,cal_sj_sf,371,1,1
+Bullet,72981,381,San Francisco Caltrain Station,0,,cal_sj_sf,381,1,1
+Bullet,72981,366,Tamien Caltrain Station,1,,cal_sf_tam,366,1,1
+Bullet,72981,376,Tamien Caltrain Station,1,,cal_sf_tam,376,1,1
+Bullet,72981,314,San Jose Diridon Caltrain Station,1,,cal_sf_sj,314,1,1
+Bullet,72981,324,San Jose Diridon Caltrain Station,1,,cal_sf_sj,324,1,1
+Bullet,72981,386,Tamien Caltrain Station,1,,cal_sf_tam,386,1,1
+Bullet,72982,802,San Jose Diridon Caltrain Station,1,,cal_sf_sj,802,1,1
+Bullet,72982,804,San Jose Diridon Caltrain Station,1,,cal_sf_sj,804,1,1
+Bullet,72981,365,San Francisco Caltrain Station,0,,cal_sj_sf,365,1,1
+Bullet,72981,375,San Francisco Caltrain Station,0,,cal_sj_sf,375,1,1
+Bullet,72981,385,San Francisco Caltrain Station,0,,cal_sj_sf,385,1,1
+Bullet,72982,801,San Francisco Caltrain Station,0,,cal_sj_sf,801,1,1
+Bullet,72982,803,San Francisco Caltrain Station,0,,cal_sj_sf,803,1,1

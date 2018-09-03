@@ -1,0 +1,4 @@
+service_id,service_description
+"73068","Saturday"
+"73069","Sunday"
+"73070","Mon - Fri"

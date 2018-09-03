@@ -1,0 +1,7 @@
+route_id,direction_id,direction
+LF-208,0,North
+LF-208,1,South
+SF-208,0,North
+SF-208,1,South
+TF-208,0,North
+TF-208,1,South

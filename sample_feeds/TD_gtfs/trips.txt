@@ -1,0 +1,11 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,trip_short_name,bikes_allowed,wheelchair_accessible
+Tideline,74346,WKDYBK1,Berkeley,0,,f17309dd-d6d2-4c84-be11-9a6b347d8c97,,0,1
+Tideline,74346,WKDYBK2,Berkeley,0,,f17309dd-d6d2-4c84-be11-9a6b347d8c97,,0,1
+Tideline,74346,WKDYBK3,Berkeley,0,,f17309dd-d6d2-4c84-be11-9a6b347d8c97,,0,1
+Tideline,74346,WKDYBK4,Berkeley,0,,f17309dd-d6d2-4c84-be11-9a6b347d8c97,,0,1
+Tideline,74346,WKDYBK5,Berkeley,0,,f17309dd-d6d2-4c84-be11-9a6b347d8c97,,0,1
+Tideline,74346,WKDYSF1,San Francisco,1,,64264536-9f1b-4cc7-929c-57a78dfb6a8e,,0,1
+Tideline,74346,WKDYSF2,San Francisco,1,,64264536-9f1b-4cc7-929c-57a78dfb6a8e,,0,1
+Tideline,74346,WKDYSF3,San Francisco,1,,64264536-9f1b-4cc7-929c-57a78dfb6a8e,,0,1
+Tideline,74346,WKDYSF4,San Francisco,1,,64264536-9f1b-4cc7-929c-57a78dfb6a8e,,0,1
+Tideline,74346,WKDYSF5,San Francisco,1,,64264536-9f1b-4cc7-929c-57a78dfb6a8e,,0,1

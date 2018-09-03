@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Document>
+    <open>1</open>
+    <Folder>
+      <name>Routes</name>
+      <visibility>0</visibility>
+      <Folder>
+        <name>&lt;b&gt;101&lt;/b&gt; - Santa Rosa - San Francisco</name>
+        <description>Route info page: &lt;a href="http://goldengatetransit.org/schedules/current/route_101.php"&gt;http://goldengatetransit.org/schedules/current/route_101.php&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;101X&lt;/b&gt; - Santa Rosa - San Francisco</name>
+        <description>Route info page: &lt;a href="http://goldengatetransit.org/schedules/current/route_101.php"&gt;http://goldengatetransit.org/schedules/current/route_101.php&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;18&lt;/b&gt; - College of Marin - San Francisco</name>
+        <description>Route info page: &lt;a href="http://goldengatetransit.org/schedules/current/route_18.php"&gt;http://goldengatetransit.org/schedules/current/route_18.php&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;24&lt;/b&gt; - Fairfax/Manor - San Francisco</name>
+        <description>Route info page: &lt;a href="http://goldengatetransit.org/schedules/current/route_24.php"&gt;http://goldengatetransit.org/schedules/current/route_24.php&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;24X&lt;/b&gt; - Fairfax/Manor - San Francisco</name>
+      </Folder><Folder>
+        <name>&lt;b&gt;25&lt;/b&gt; - Fairfax/Manor - Larkspur Ferry Terminal</name>
+        <description>Route info page: &lt;a href="http://goldengatetransit.org/schedules/current/route_25.php"&gt;http://goldengatetransit.org/schedules/current/route_25.php&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;27&lt;/b&gt; - San Anselmo -San Rafael - San Francisco</name>
+        <description>Route info page: &lt;a href="http://goldengatetransit.org/schedules/current/route_27.php"&gt;http://goldengatetransit.org/schedules/current/route_27.php&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;2&lt;/b&gt; - Marin City - San Francisco</name>
+        <description>Route info page: &lt;a href="http://goldengatetransit.org/schedules/current/route_2.php"&gt;http://goldengatetransit.org/schedules/current/route_2.php&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;30&lt;/b&gt; - San Rafael - San Francisco</name>
+      </Folder><Folder>
+        <name>&lt;b&gt;31&lt;/b&gt; - San Rafael - Larkspur Ferry Terminal</name>
+        <description>Route info page: &lt;a href="http://goldengatetransit.org/schedules/current/route_31.php"&gt;http://goldengatetransit.org/schedules/current/route_31.php&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;38&lt;/b&gt; - Terra Linda - San Francisco</name>
+        <description>Route info page: &lt;a href="http://goldengatetransit.org/schedules/current/route_38.php"&gt;http://goldengatetransit.org/schedules/current/route_38.php&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;40&lt;/b&gt; - Del Norte BART Station - San Rafael</name>
+        <description>Route info page: &lt;a href="http://goldengatetransit.org/schedules/current/route_40.php"&gt;http://goldengatetransit.org/schedules/current/route_40.php&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;40X&lt;/b&gt; - Del Norte BART Station - San Rafael</name>
+      </Folder><Folder>
+        <name>&lt;b&gt;41&lt;/b&gt;</name>
+      </Folder><Folder>
+        <name>&lt;b&gt;44&lt;/b&gt; - Lucas Valley - San Francisco</name>
+        <description>Route info page: &lt;a href="http://goldengatetransit.org/schedules/current/route_44.php"&gt;http://goldengatetransit.org/schedules/current/route_44.php&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;4&lt;/b&gt; - Mill Valley - San Francisco</name>
+        <description>Route info page: &lt;a href="http://goldengatetransit.org/schedules/current/route_4.php"&gt;http://goldengatetransit.org/schedules/current/route_4.php&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;54&lt;/b&gt; - Novato/San Marin - San Francisco</name>
+        <description>Route info page: &lt;a href="http://goldengatetransit.org/schedules/current/route_54.php"&gt;http://goldengatetransit.org/schedules/current/route_54.php&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;56&lt;/b&gt; - San Marin - San Francisco</name>
+        <description>Route info page: &lt;a href="http://goldengatetransit.org/schedules/current/route_56.php"&gt;http://goldengatetransit.org/schedules/current/route_56.php&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;58&lt;/b&gt; - Hamilton/Novato - San Francisco</name>
+        <description>Route info page: &lt;a href="http://goldengatetransit.org/schedules/current/route_58.php"&gt;http://goldengatetransit.org/schedules/current/route_58.php&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;70&lt;/b&gt; - Novato - San Francisco</name>
+        <description>Route info page: &lt;a href="http://goldengatetransit.org/schedules/current/route_70.php"&gt;http://goldengatetransit.org/schedules/current/route_70.php&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;72&lt;/b&gt; - Santa Rosa - San Francisco</name>
+        <description>Route info page: &lt;a href="http://goldengatetransit.org/schedules/current/route_72.php"&gt;http://goldengatetransit.org/schedules/current/route_72.php&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;72X&lt;/b&gt; - Santa Rosa - San Francisco</name>
+        <description>Route info page: &lt;a href="http://goldengatetransit.org/schedules/current/route_72.php"&gt;http://goldengatetransit.org/schedules/current/route_72.php&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;74&lt;/b&gt; - Santa Rosa - San Francisco</name>
+        <description>Route info page: &lt;a href="http://goldengatetransit.org/schedules/current/route_74.php"&gt;http://goldengatetransit.org/schedules/current/route_74.php&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;76&lt;/b&gt; - East Petaluma - San Francisco</name>
+        <description>Route info page: &lt;a href="http://goldengatetransit.org/schedules/current/route_76.php"&gt;http://goldengatetransit.org/schedules/current/route_76.php&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;801&lt;/b&gt; - Giants Ferry Shuttle</name>
+      </Folder><Folder>
+        <name>&lt;b&gt;8&lt;/b&gt; - Tiburon - San Francisco</name>
+        <description>Route info page: &lt;a href="http://goldengatetransit.org/schedules/current/route_8.php"&gt;http://goldengatetransit.org/schedules/current/route_8.php&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;92&lt;/b&gt; - Manzanita - San Francisco</name>
+        <description>Route info page: &lt;a href="http://goldengatetransit.org/schedules/current/route_92.php"&gt;http://goldengatetransit.org/schedules/current/route_92.php&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;93&lt;/b&gt; - Golden Gate Bridge Toll Plaza - San Francisco</name>
+        <description>Route info page: &lt;a href="http://goldengatetransit.org/schedules/current/route_93.php"&gt;http://goldengatetransit.org/schedules/current/route_93.php&lt;/a&gt;</description>
+      </Folder>
+    </Folder><Style id="route_101">
+      <LineStyle>
+        <width>2</width>
+        <color>ffff6633</color>
+      </LineStyle>
+    </Style><Style id="route_101X">
+      <LineStyle>
+        <width>2</width>
+        <color>ff3333cc</color>
+      </LineStyle>
+    </Style><Style id="route_18">
+      <LineStyle>
+        <width>2</width>
+        <color>ff3333cc</color>
+      </LineStyle>
+    </Style><Style id="route_24">
+      <LineStyle>
+        <width>2</width>
+        <color>ff3333cc</color>
+      </LineStyle>
+    </Style><Style id="route_24X">
+      <LineStyle>
+        <width>2</width>
+        <color>ff3333cc</color>
+      </LineStyle>
+    </Style><Style id="route_25">
+      <LineStyle>
+        <width>2</width>
+        <color>ff3333cc</color>
+      </LineStyle>
+    </Style><Style id="route_27">
+      <LineStyle>
+        <width>2</width>
+        <color>ff3333cc</color>
+      </LineStyle>
+    </Style><Style id="route_2">
+      <LineStyle>
+        <width>2</width>
+        <color>ff3333cc</color>
+      </LineStyle>
+    </Style><Style id="route_30">
+      <LineStyle>
+        <width>2</width>
+        <color>ffff6633</color>
+      </LineStyle>
+    </Style><Style id="route_31">
+      <LineStyle>
+        <width>2</width>
+        <color>ff3333cc</color>
+      </LineStyle>
+    </Style><Style id="route_38">
+      <LineStyle>
+        <width>2</width>
+        <color>ff3333cc</color>
+      </LineStyle>
+    </Style><Style id="route_40">
+      <LineStyle>
+        <width>2</width>
+        <color>ffff6633</color>
+      </LineStyle>
+    </Style><Style id="route_40X">
+      <LineStyle>
+        <width>2</width>
+        <color>ffff6633</color>
+      </LineStyle>
+    </Style><Style id="route_41">
+      <LineStyle>
+        <width>2</width>
+        <color>ff3333cc</color>
+      </LineStyle>
+    </Style><Style id="route_44">
+      <LineStyle>
+        <width>2</width>
+        <color>ff3333cc</color>
+      </LineStyle>
+    </Style><Style id="route_4">
+      <LineStyle>
+        <width>2</width>
+        <color>ff3333cc</color>
+      </LineStyle>
+    </Style><Style id="route_54">
+      <LineStyle>
+        <width>2</width>
+        <color>ff3333cc</color>
+      </LineStyle>
+    </Style><Style id="route_56">
+      <LineStyle>
+        <width>2</width>
+        <color>ff3333cc</color>
+      </LineStyle>
+    </Style><Style id="route_58">
+      <LineStyle>
+        <width>2</width>
+        <color>ff3333cc</color>
+      </LineStyle>
+    </Style><Style id="route_70">
+      <LineStyle>
+        <width>2</width>
+        <color>ffff6633</color>
+      </LineStyle>
+    </Style><Style id="route_72">
+      <LineStyle>
+        <width>2</width>
+        <color>ff3333cc</color>
+      </LineStyle>
+    </Style><Style id="route_72X">
+      <LineStyle>
+        <width>2</width>
+        <color>ff3333cc</color>
+      </LineStyle>
+    </Style><Style id="route_74">
+      <LineStyle>
+        <width>2</width>
+        <color>ff3333cc</color>
+      </LineStyle>
+    </Style><Style id="route_76">
+      <LineStyle>
+        <width>2</width>
+        <color>ff3333cc</color>
+      </LineStyle>
+    </Style><Style id="route_801">
+      <LineStyle>
+        <width>2</width>
+        <color>ff009900</color>
+      </LineStyle>
+    </Style><Style id="route_8">
+      <LineStyle>
+        <width>2</width>
+        <color>ff3333cc</color>
+      </LineStyle>
+    </Style><Style id="route_92">
+      <LineStyle>
+        <width>2</width>
+        <color>ff3333cc</color>
+      </LineStyle>
+    </Style><Style id="route_93">
+      <LineStyle>
+        <width>2</width>
+        <color>ff3333cc</color>
+      </LineStyle>
+    </Style>
+  </Document>
+</kml>

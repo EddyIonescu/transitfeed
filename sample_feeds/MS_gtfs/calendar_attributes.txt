@@ -1,0 +1,10 @@
+service_id,service_description
+"73075","Weekday (Ex Univ Holidays)"
+"73076","Weekend (Summer)"
+"73077","Weekday"
+"73078","Weekday"
+"73079","Weekend"
+"73080","Daily"
+"73081","Weekday (Incl Univ Holidays)"
+"73082","Weekday"
+"73503","Weekend"

@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url,agency_email
+SO,Sonoma County Transit,http://www.sctransit.com/?referrer=gtfs,America/Los_Angeles,en,(707) 576-7433,http://sctransit.com/fares/?referrer=gtfs,

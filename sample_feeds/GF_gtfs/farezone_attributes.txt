@@ -1,0 +1,4 @@
+zone_id,zone_name
+"3","CorteMadera-SanRafael-Marinwood"
+"1","San Francisco"
+"2","Sausalito-Marin City-Mill Valley"

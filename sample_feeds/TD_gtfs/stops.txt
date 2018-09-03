@@ -1,0 +1,3 @@
+stop_id,stop_code,stop_name,stop_lat,stop_lon,zone_id,stop_desc,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding
+"1002","1002",Berkeley Marina K-Dock,37.8649527,-122.3141706,,"","","0","","",""
+"1001","1001",San Francisco Pier 1.5,37.797577,-122.3946798,,"","","0","","","1"

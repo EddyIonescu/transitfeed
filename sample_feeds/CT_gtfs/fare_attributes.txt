@@ -1,0 +1,7 @@
+fare_id,price,currency_type,payment_method,transfers,transfer_duration
+1726,3.75,USD,1,,14400
+1727,6.00,USD,1,,14400
+1728,8.25,USD,1,,14400
+1729,10.50,USD,1,,14400
+1730,12.75,USD,1,,14400
+1731,15.00,USD,1,,14400

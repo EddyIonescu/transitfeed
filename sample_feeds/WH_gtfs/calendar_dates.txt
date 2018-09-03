@@ -1,0 +1,3 @@
+service_id,date,exception_type
+72990,20180903,1
+72989,20180903,2

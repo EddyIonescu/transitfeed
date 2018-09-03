@@ -1,0 +1,6 @@
+fare_id,price,currency_type,payment_method,transfers,transfer_duration
+2293,1.50,USD,0,,10800
+2294,2.10,USD,0,,10800
+2295,3.00,USD,0,,10800
+2296,3.90,USD,0,,10800
+2297,4.80,USD,0,,10800

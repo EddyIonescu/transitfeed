@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Document>
+    <open>1</open>
+    <Folder>
+      <name>Routes</name>
+      <visibility>0</visibility>
+      <Folder>
+        <name>&lt;b&gt;113&lt;/b&gt; - Paradise Cay - Redwood HS</name>
+        <description>Route info page: &lt;a href="http://www.marintransit.org/routes/113.html"&gt;http://www.marintransit.org/routes/113.html&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;115&lt;/b&gt; - Marin City - St Hilary School</name>
+        <description>Route info page: &lt;a href="http://www.marintransit.org/routes/115.html"&gt;http://www.marintransit.org/routes/115.html&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;117&lt;/b&gt; - Cove School - E Corte Madera - Hall MS</name>
+        <description>Route info page: &lt;a href="http://www.marintransit.org/routes/117.html"&gt;http://www.marintransit.org/routes/117.html&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;119&lt;/b&gt; - Tiburon - Redwood HS</name>
+        <description>Route info page: &lt;a href="http://www.marintransit.org/routes/119.html"&gt;http://www.marintransit.org/routes/119.html&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;122&lt;/b&gt; - College of Marin Express</name>
+        <description>Route info page: &lt;a href="http://www.marintransit.org/routes/122.html"&gt;http://www.marintransit.org/routes/122.html&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;125&lt;/b&gt; - Lagunitas - Sir Francis Drake HS - San Rafael</name>
+        <description>Route info page: &lt;a href="http://www.marintransit.org/routes/125.html"&gt;http://www.marintransit.org/routes/125.html&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;139&lt;/b&gt; - Lucas Valley - Terra Linda HS</name>
+        <description>Route info page: &lt;a href="http://www.marintransit.org/routes/139.html"&gt;http://www.marintransit.org/routes/139.html&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;145&lt;/b&gt; - San Rafael - Terra Linda HS</name>
+        <description>Route info page: &lt;a href="http://www.marintransit.org/routes/145.html"&gt;http://www.marintransit.org/routes/145.html&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;151&lt;/b&gt; - Hamilton - San Marin HS</name>
+        <description>Route info page: &lt;a href="http://www.marintransit.org/routes/151.html"&gt;http://www.marintransit.org/routes/151.html&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;154&lt;/b&gt; - Olive - Novato</name>
+        <description>Route info page: &lt;a href="http://www.marintransit.org/routes/154.html"&gt;http://www.marintransit.org/routes/154.html&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;17&lt;/b&gt; - San Rafael - Sausalito</name>
+        <description>Route info page: &lt;a href="http://www.marintransit.org/routes/17.html"&gt;http://www.marintransit.org/routes/17.html&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;219&lt;/b&gt; - Tiburon - Strawberry</name>
+        <description>Route info page: &lt;a href="http://www.marintransit.org/routes/219.html"&gt;http://www.marintransit.org/routes/219.html&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;228&lt;/b&gt; - San Rafael - Fairfax Manor</name>
+        <description>Route info page: &lt;a href="http://www.marintransit.org/routes/228.html"&gt;http://www.marintransit.org/routes/228.html&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;22&lt;/b&gt; - San Rafael - Marin City</name>
+        <description>Route info page: &lt;a href="http://www.marintransit.org/routes/22.html"&gt;http://www.marintransit.org/routes/22.html&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;233&lt;/b&gt; - San Rafael - Santa Venetia</name>
+        <description>Route info page: &lt;a href="http://www.marintransit.org/routes/233.html"&gt;http://www.marintransit.org/routes/233.html&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;23&lt;/b&gt; - Canal - Fairfax</name>
+        <description>Route info page: &lt;a href="http://www.marintransit.org/routes/23.html"&gt;http://www.marintransit.org/routes/23.html&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;23X&lt;/b&gt; - Canal - Fairfax/Manor Express</name>
+        <description>Route info page: &lt;a href="http://www.marintransit.org/routes/23.html"&gt;http://www.marintransit.org/routes/23.html&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;245&lt;/b&gt; - San Rafael - Smith Ranch Road</name>
+        <description>Route info page: &lt;a href="http://www.marintransit.org/routes/245.html"&gt;http://www.marintransit.org/routes/245.html&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;251&lt;/b&gt; - Novato Shuttle</name>
+        <description>Route info page: &lt;a href="http://www.marintransit.org/routes/251.html"&gt;http://www.marintransit.org/routes/251.html&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;257&lt;/b&gt; - San Rafael - Ignacio</name>
+        <description>Route info page: &lt;a href="http://www.marintransit.org/routes/257.html"&gt;http://www.marintransit.org/routes/257.html&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;29&lt;/b&gt; - Canal - Marin General</name>
+        <description>Route info page: &lt;a href="http://www.marintransit.org/routes/29.html"&gt;http://www.marintransit.org/routes/29.html&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;35&lt;/b&gt; - Canal - San Rafael Transit Center</name>
+        <description>Route info page: &lt;a href="http://www.marintransit.org/routes/35.html"&gt;http://www.marintransit.org/routes/35.html&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;36&lt;/b&gt; - Canal - Marin City</name>
+        <description>Route info page: &lt;a href="http://www.marintransit.org/routes/36.html"&gt;http://www.marintransit.org/routes/36.html&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;49&lt;/b&gt; - San Rafael - Novato</name>
+        <description>Route info page: &lt;a href="http://www.marintransit.org/routes/49.html"&gt;http://www.marintransit.org/routes/49.html&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;61&lt;/b&gt; - West Marin Stagecoach (South)</name>
+        <description>Route info page: &lt;a href="http://www.marintransit.org/routes/61.html"&gt;http://www.marintransit.org/routes/61.html&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;68&lt;/b&gt; - West Marin Stagecoach (North)</name>
+        <description>Route info page: &lt;a href="http://www.marintransit.org/routes/68.html"&gt;http://www.marintransit.org/routes/68.html&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;71X&lt;/b&gt; - Novato - Sausalito</name>
+        <description>Route info page: &lt;a href="http://www.marintransit.org/routes/71.html"&gt;http://www.marintransit.org/routes/71.html&lt;/a&gt;</description>
+      </Folder>
+    </Folder><Style id="route_113">
+      <LineStyle>
+        <width>2</width>
+        <color>ff3898f8</color>
+      </LineStyle>
+    </Style><Style id="route_115">
+      <LineStyle>
+        <width>2</width>
+        <color>ff3898f8</color>
+      </LineStyle>
+    </Style><Style id="route_117">
+      <LineStyle>
+        <width>2</width>
+        <color>ff3898f8</color>
+      </LineStyle>
+    </Style><Style id="route_119">
+      <LineStyle>
+        <width>2</width>
+        <color>ff3898f8</color>
+      </LineStyle>
+    </Style><Style id="route_122">
+      <LineStyle>
+        <width>2</width>
+        <color>ff3898f8</color>
+      </LineStyle>
+    </Style><Style id="route_125">
+      <LineStyle>
+        <width>2</width>
+        <color>ff3898f8</color>
+      </LineStyle>
+    </Style><Style id="route_139">
+      <LineStyle>
+        <width>2</width>
+        <color>ff3898f8</color>
+      </LineStyle>
+    </Style><Style id="route_145">
+      <LineStyle>
+        <width>2</width>
+        <color>ff3898f8</color>
+      </LineStyle>
+    </Style><Style id="route_151">
+      <LineStyle>
+        <width>2</width>
+        <color>ff3898f8</color>
+      </LineStyle>
+    </Style><Style id="route_154">
+      <LineStyle>
+        <width>2</width>
+        <color>ff3898f8</color>
+      </LineStyle>
+    </Style><Style id="route_17">
+      <LineStyle>
+        <width>2</width>
+        <color>ff46a953</color>
+      </LineStyle>
+    </Style><Style id="route_219">
+      <LineStyle>
+        <width>2</width>
+        <color>ff3cc7a5</color>
+      </LineStyle>
+    </Style><Style id="route_228">
+      <LineStyle>
+        <width>2</width>
+        <color>ff3cc7a5</color>
+      </LineStyle>
+    </Style><Style id="route_22">
+      <LineStyle>
+        <width>2</width>
+        <color>ff46a953</color>
+      </LineStyle>
+    </Style><Style id="route_233">
+      <LineStyle>
+        <width>2</width>
+        <color>ff3cc7a5</color>
+      </LineStyle>
+    </Style><Style id="route_23">
+      <LineStyle>
+        <width>2</width>
+        <color>ff46a953</color>
+      </LineStyle>
+    </Style><Style id="route_23X">
+      <LineStyle>
+        <width>2</width>
+        <color>ff46a953</color>
+      </LineStyle>
+    </Style><Style id="route_245">
+      <LineStyle>
+        <width>2</width>
+        <color>ff3cc7a5</color>
+      </LineStyle>
+    </Style><Style id="route_251">
+      <LineStyle>
+        <width>2</width>
+        <color>ff3cc7a5</color>
+      </LineStyle>
+    </Style><Style id="route_257">
+      <LineStyle>
+        <width>2</width>
+        <color>ff3cc7a5</color>
+      </LineStyle>
+    </Style><Style id="route_29">
+      <LineStyle>
+        <width>2</width>
+        <color>ff46a953</color>
+      </LineStyle>
+    </Style><Style id="route_35">
+      <LineStyle>
+        <width>2</width>
+        <color>ff46a953</color>
+      </LineStyle>
+    </Style><Style id="route_36">
+      <LineStyle>
+        <width>2</width>
+        <color>ff46a953</color>
+      </LineStyle>
+    </Style><Style id="route_49">
+      <LineStyle>
+        <width>2</width>
+        <color>ff46a953</color>
+      </LineStyle>
+    </Style><Style id="route_61">
+      <LineStyle>
+        <width>2</width>
+        <color>ffab6131</color>
+      </LineStyle>
+    </Style><Style id="route_68">
+      <LineStyle>
+        <width>2</width>
+        <color>ffab6131</color>
+      </LineStyle>
+    </Style><Style id="route_71X">
+      <LineStyle>
+        <width>2</width>
+        <color>ff46a953</color>
+      </LineStyle>
+    </Style>
+  </Document>
+</kml>

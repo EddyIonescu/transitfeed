@@ -1,0 +1,13 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+"11","VN",11,"11 Vallejo Tc, Redwood Pnr","",3,"http://ridethevine.rideralerts.com/InfoPoint/11","0976AA","FFFFFF"
+"29","VN",29,"29 Soscol Tc, Redwood Pnr, Calistoga","",3,"http://ridethevine.rideralerts.com/InfoPoint/29","DF356E","FFFFFF"
+"3","VN",3,"3 S. Napa Maretplace, Coombs St","",3,"http://ridethevine.rideralerts.com/InfoPoint/3","F4901D","FFFFFF"
+"4","VN",4,"4 S. Napa Market Place, Shetler","",3,"http://ridethevine.rideralerts.com/InfoPoint/4","FFE901","00000F"
+"5","VN",5,"5 Napa Hs, Pear Tree","",3,"http://ridethevine.rideralerts.com/InfoPoint/5","00A9A7","FFFFFF"
+"6","VN",6,"6 Redwood Pnr, Trancus","",3,"http://ridethevine.rideralerts.com/InfoPoint/6","F25B21","FFFFFF"
+"2","VN",2,"2 Outlets, Old Sonoma Rd","",3,"http://ridethevine.rideralerts.com/InfoPoint/2","434C3D","FFFFFF"
+"7","VN",7,"7 Redwood Pnr, Kaiser","",3,"http://ridethevine.rideralerts.com/InfoPoint/7","6FCBD2","FFFFFF"
+"8","VN",8,"8 Jefferson, Redwood Pnr, Tc","",3,"http://ridethevine.rideralerts.com/InfoPoint/8","DE83B4","FFFFFF"
+"10","VN",10,"10 Redwood Pnr, Tc, Nv College","",3,"http://ridethevine.rideralerts.com/InfoPoint/10","6A478F","FFFFFF"
+"21","VN",21,"21 Fairfield Tc, Soscol Tc","",3,"http://ridethevine.rideralerts.com/InfoPoint/21","71C167","FFFFFF"
+"1","VN",1,1 Browns Valley,"",3,"http://ridethevine.rideralerts.com/InfoPoint/1","984A2B","FFFFFF"

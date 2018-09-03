@@ -1,0 +1,105 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,trip_short_name,bikes_allowed,wheelchair_accessible
+CC,72762,520,Sacramento,0,,,520,0,1
+CC,72762,522,Sacramento,0,,,522,0,1
+CC,72761,720,Sacramento,0,,,720,0,1
+CC,72762,530,Sacramento,0,,,530,0,1
+CC,72762,534,Sacramento,0,,,534,0,1
+CC,72761,734,Sacramento,0,,,734,0,1
+CC,72761,736,Sacramento,0,,,736,0,1
+CC,72762,540,Sacramento,0,,,540,0,1
+CC,72762,544,Sacramento,0,,,544,0,1
+CC,72761,746,Sacramento,0,,,746,0,1
+CC,72762,521,San Jose,1,,9ad44d47-6671-446c-80ae-d246cdbdae6d,521,0,1
+CC,72762,523,San Jose,1,,9ad44d47-6671-446c-80ae-d246cdbdae6d,523,0,1
+CC,72761,723,San Jose,1,,9ad44d47-6671-446c-80ae-d246cdbdae6d,723,0,1
+CC,72762,525,San Jose,1,,9ad44d47-6671-446c-80ae-d246cdbdae6d,525,0,1
+CC,72762,527,San Jose,1,,9ad44d47-6671-446c-80ae-d246cdbdae6d,527,0,1
+CC,72761,727,San Jose,1,,9ad44d47-6671-446c-80ae-d246cdbdae6d,727,0,1
+CC,72762,537,San Jose,1,,9ad44d47-6671-446c-80ae-d246cdbdae6d,537,0,1
+CC,72761,737,San Jose,1,,9ad44d47-6671-446c-80ae-d246cdbdae6d,737,0,1
+CC,72761,741,San Jose,1,,9ad44d47-6671-446c-80ae-d246cdbdae6d,741,0,1
+CC,72762,543,San Jose,1,,9ad44d47-6671-446c-80ae-d246cdbdae6d,543,0,1
+CC,72761,743,San Jose,1,,9ad44d47-6671-446c-80ae-d246cdbdae6d,743,0,1
+CC,72761,747,San Jose,1,,9ad44d47-6671-446c-80ae-d246cdbdae6d,747,0,1
+CC,72762,547,San Jose,1,,9ad44d47-6671-446c-80ae-d246cdbdae6d,547,0,1
+CC,72762,524,Sacramento,0,,,524,0,1
+CC,72761,724,Sacramento,0,,,724,0,1
+CC,72762,528,Sacramento,0,,,528,0,1
+CC,72761,728,Sacramento,0,,,728,0,1
+CC,72762,532,Sacramento,0,,,532,0,1
+CC,72761,732,Sacramento,0,,,732,0,1
+CC,72762,538,Sacramento,0,,,538,0,1
+CC,72761,738,Sacramento,0,,,738,0,1
+CC,72762,542,Sacramento,0,,,542,0,1
+CC,72762,546,Sacramento,0,,,546,0,1
+CC,72761,744,Sacramento,0,,,744,0,1
+CC,72762,548,Sacramento,0,,,548,0,1
+CC,72761,748,Sacramento,0,,,748,0,1
+CC,72762,529,Oakland Jack London,1,,,529,0,1
+CC,72762,531,Oakland Coliseum,1,,,,0,0
+CC,72762,535,Oakland Coliseum,1,,,535,0,1
+CC,72761,733,Oakland Coliseum,1,,,733,0,1
+CC,72762,549,Oakland Coliseum,1,,,549,0,1
+CC,72762,536,Auburn,0,,,536,0,1
+CC,72762,550,Sacramento,0,,,550,0,1
+CC,72762,541,Oakland Jack London,1,,,541,0,1
+CC,72762,545,Oakland Jack London,1,,,545,0,1
+CC,72761,745,Oakland Jack London,1,,,745,0,1
+CC,72761,749,Oakland Jack London,1,,,749,0,1
+CC,72762,551,Oakland Jack London,1,,,551,0,1
+CC,72762,553,Oakland Jack London,1,,,553,0,1
+CC,72761,751,Oakland Jack London,1,,,751,0,1
+CC,72761,729,San Jose,1,,,729,0,1
+CC,72761,742,Auburn,0,,,742,0,1
+SF,72762,6620,Emeryville Amtrak,0,,2a7eeb4f-8f1b-422c-81ca-732d6e52ed3d,6620,0,1
+SF,72762,6622,Emeryville Amtrak,0,,2a7eeb4f-8f1b-422c-81ca-732d6e52ed3d,6622,0,1
+SF,72762,6624,Emeryville Amtrak,0,,2a7eeb4f-8f1b-422c-81ca-732d6e52ed3d,6624,0,1
+SF,72761,6670,Emeryville Amtrak,0,,2a7eeb4f-8f1b-422c-81ca-732d6e52ed3d,6670,0,1
+SF,72761,6674,Emeryville Amtrak,0,,2a7eeb4f-8f1b-422c-81ca-732d6e52ed3d,6674,0,1
+SF,72762,6628,Emeryville Amtrak,0,,2a7eeb4f-8f1b-422c-81ca-732d6e52ed3d,6628,0,1
+SF,72761,6678,Emeryville Amtrak,0,,2a7eeb4f-8f1b-422c-81ca-732d6e52ed3d,6678,0,1
+SF,72762,6630,Emeryville Amtrak,0,,2a7eeb4f-8f1b-422c-81ca-732d6e52ed3d,6630,0,1
+SF,72761,6682,Emeryville Amtrak,0,,2a7eeb4f-8f1b-422c-81ca-732d6e52ed3d,6682,0,1
+SF,72762,6632,Emeryville Amtrak,0,,2a7eeb4f-8f1b-422c-81ca-732d6e52ed3d,6632,0,1
+SF,72761,6684,Emeryville Amtrak,0,,2a7eeb4f-8f1b-422c-81ca-732d6e52ed3d,6684,0,1
+SF,72762,6634,Emeryville Amtrak,0,,2a7eeb4f-8f1b-422c-81ca-732d6e52ed3d,6634,0,1
+SF,72762,3336,Emeryville Amtrak,0,,2a7eeb4f-8f1b-422c-81ca-732d6e52ed3d,6636/3336,0,1
+SF,72762,3338,Emeryville Amtrak,0,,2a7eeb4f-8f1b-422c-81ca-732d6e52ed3d,6338/3338,0,1
+SF,72761,6686,Emeryville Amtrak,0,,2a7eeb4f-8f1b-422c-81ca-732d6e52ed3d,6686,0,1
+SF,72762,3340,Emeryville Amtrak,0,,2a7eeb4f-8f1b-422c-81ca-732d6e52ed3d,6640/3340,0,1
+SF,72762,3342,Emeryville Amtrak,0,,2a7eeb4f-8f1b-422c-81ca-732d6e52ed3d,6642/3342,0,1
+SF,72762,6644,Emeryville Amtrak,0,,2a7eeb4f-8f1b-422c-81ca-732d6e52ed3d,6644,0,1
+SF,72761,6688,Emeryville Amtrak,0,,2a7eeb4f-8f1b-422c-81ca-732d6e52ed3d,6688,0,1
+SF,72762,6646,Emeryville Amtrak,0,,2a7eeb4f-8f1b-422c-81ca-732d6e52ed3d,6646,0,1
+SF,72761,6692,Emeryville Amtrak,0,,2a7eeb4f-8f1b-422c-81ca-732d6e52ed3d,6692,0,1
+SF,72761,6694,Emeryville Amtrak,0,,2a7eeb4f-8f1b-422c-81ca-732d6e52ed3d,6694,0,1
+SF,72762,6648,Emeryville Amtrak,0,,2a7eeb4f-8f1b-422c-81ca-732d6e52ed3d,6648,0,1
+SF,72761,6696,Emeryville Amtrak,0,,2a7eeb4f-8f1b-422c-81ca-732d6e52ed3d,6696,0,1
+SF,72762,6650,Emeryville Amtrak,0,,2a7eeb4f-8f1b-422c-81ca-732d6e52ed3d,6650,0,1
+SF,72761,6698,Emeryville Amtrak,0,,2a7eeb4f-8f1b-422c-81ca-732d6e52ed3d,6698,0,1
+SF,72762,6621,San Francisco,1,,c0dd93fb-caed-41df-8b09-c8aa40f5bc1b,6621/3321,0,1
+SF,72762,6623,San Francisco,1,,c0dd93fb-caed-41df-8b09-c8aa40f5bc1b,6623/3323,0,1
+SF,72761,6673,San Francisco,1,,c0dd93fb-caed-41df-8b09-c8aa40f5bc1b,6673,0,1
+SF,72762,6625,San Francisco,1,,c0dd93fb-caed-41df-8b09-c8aa40f5bc1b,6625/3325,0,1
+SF,72762,6627,San Francisco,1,,c0dd93fb-caed-41df-8b09-c8aa40f5bc1b,6627/3327,0,1
+SF,72762,6629,San Francisco,1,,c0dd93fb-caed-41df-8b09-c8aa40f5bc1b,6629/3329,0,1
+SF,72761,6677,San Francisco,1,,c0dd93fb-caed-41df-8b09-c8aa40f5bc1b,6677,0,1
+SF,72762,6631,San Francisco,1,,c0dd93fb-caed-41df-8b09-c8aa40f5bc1b,6631,0,1
+SF,72761,6679,San Francisco,1,,c0dd93fb-caed-41df-8b09-c8aa40f5bc1b,6679,0,1
+SF,72762,6635,San Francisco,1,,c0dd93fb-caed-41df-8b09-c8aa40f5bc1b,6635,0,1
+SF,72761,6683,San Francisco,1,,c0dd93fb-caed-41df-8b09-c8aa40f5bc1b,6683,0,1
+SF,72762,6637,San Francisco,1,,c0dd93fb-caed-41df-8b09-c8aa40f5bc1b,6637,0,1
+SF,72761,6637W,San Francisco,1,,c0dd93fb-caed-41df-8b09-c8aa40f5bc1b,6637,0,1
+SF,72761,6693,San Francisco,1,,c0dd93fb-caed-41df-8b09-c8aa40f5bc1b,6693,0,1
+SF,72762,6641,San Francisco,1,,c0dd93fb-caed-41df-8b09-c8aa40f5bc1b,6641,0,1
+SF,72761,6641W,San Francisco,1,,c0dd93fb-caed-41df-8b09-c8aa40f5bc1b,6641,0,1
+SF,72762,6643,San Francisco,1,,c0dd93fb-caed-41df-8b09-c8aa40f5bc1b,6643,0,1
+SF,72762,6645,San Francisco,1,,c0dd93fb-caed-41df-8b09-c8aa40f5bc1b,6645/3345,0,1
+SF,72761,6695,San Francisco,1,,c0dd93fb-caed-41df-8b09-c8aa40f5bc1b,6695,0,1
+SF,72761,6647W,San Francisco,1,,c0dd93fb-caed-41df-8b09-c8aa40f5bc1b,6647,0,1
+SF,72762,6647,San Francisco,1,,c0dd93fb-caed-41df-8b09-c8aa40f5bc1b,6647,0,1
+SF,72762,6649,San Francisco,1,,c0dd93fb-caed-41df-8b09-c8aa40f5bc1b,6649,0,1
+SF,72761,6699,San Francisco,1,,c0dd93fb-caed-41df-8b09-c8aa40f5bc1b,6699,0,1
+SF,72762,6651,San Francisco,1,,c0dd93fb-caed-41df-8b09-c8aa40f5bc1b,6651,0,1
+SF,72761,6653W,San Francisco,1,,c0dd93fb-caed-41df-8b09-c8aa40f5bc1b,6653,0,1
+SF,72762,6653,San Francisco,1,,c0dd93fb-caed-41df-8b09-c8aa40f5bc1b,6653,0,1

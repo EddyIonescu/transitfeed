@@ -1,0 +1,3 @@
+zone_id,zone_name
+"199","Intercity"
+"198","Local"

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Document>
+    <open>1</open>
+    <Folder>
+      <name>Routes</name>
+      <visibility>0</visibility>
+      <Folder>
+        <name>&lt;b&gt;HB - SF&lt;/b&gt; - Harbor Bay - San Francisco Ferry Building</name>
+      </Folder><Folder>
+        <name>&lt;b&gt;SF - Ala - Oak&lt;/b&gt; - San Francisco - Alameda via Oakland</name>
+      </Folder><Folder>
+        <name>&lt;b&gt;SF - Oak - Ala&lt;/b&gt; - San Francisco - Oakland via Alameda</name>
+      </Folder><Folder>
+        <name>&lt;b&gt;South SF - Ala - Oak&lt;/b&gt; - South SF - Oakland - Alameda</name>
+      </Folder><Folder>
+        <name>&lt;b&gt;South SF - Oak - Ala&lt;/b&gt; - South SF - Alameda via Oakland</name>
+      </Folder><Folder>
+        <name>&lt;b&gt;Vallejo - SF Ferry Building&lt;/b&gt; - Vallejo - San Francisco Ferry Building (Gate B)</name>
+      </Folder><Folder>
+        <name>&lt;b&gt;Vallejo - SF Pier 41&lt;/b&gt; - Vallejo - San Francisco Pier 41</name>
+      </Folder>
+    </Folder><Style id="route_HB - SF">
+      <LineStyle>
+        <width>2</width>
+        <color>ff5639d6</color>
+      </LineStyle>
+    </Style><Style id="route_SF - Ala - Oak">
+      <LineStyle>
+        <width>2</width>
+        <color>ff0175ec</color>
+      </LineStyle>
+    </Style><Style id="route_SF - Oak - Ala">
+      <LineStyle>
+        <width>2</width>
+        <color>ff0175ec</color>
+      </LineStyle>
+    </Style><Style id="route_South SF - Ala - Oak">
+      <LineStyle>
+        <width>2</width>
+        <color>ffb60bc6</color>
+      </LineStyle>
+    </Style><Style id="route_South SF - Oak - Ala">
+      <LineStyle>
+        <width>2</width>
+        <color>ffb60bc6</color>
+      </LineStyle>
+    </Style><Style id="route_Vallejo - SF Ferry Building">
+      <LineStyle>
+        <width>2</width>
+        <color>ff9d8e00</color>
+      </LineStyle>
+    </Style><Style id="route_Vallejo - SF Pier 41">
+      <LineStyle>
+        <width>2</width>
+        <color>ff9d8e00</color>
+      </LineStyle>
+    </Style>
+  </Document>
+</kml>

@@ -1,0 +1,4 @@
+service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+72855,0,0,0,0,0,1,1,20180629,20190101
+72856,1,1,1,1,1,0,0,20180629,20190101
+74239,0,0,0,0,0,0,0,20180903,20190527

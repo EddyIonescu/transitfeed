@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Document>
+    <open>1</open>
+    <Folder>
+      <name>Routes</name>
+      <visibility>0</visibility>
+      <Folder>
+        <name>Antioch - SFIA/Millbrae</name>
+        <description>Route info page: &lt;a href="http://www.bart.gov/schedules/bylineresults?route=1"&gt;http://www.bart.gov/schedules/bylineresults?route=1&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>Dublin/Pleasanton - Daly City</name>
+        <description>Route info page: &lt;a href="http://www.bart.gov/schedules/bylineresults?route=11"&gt;http://www.bart.gov/schedules/bylineresults?route=11&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>Oakland Airport - Coliseum</name>
+        <description>Route info page: &lt;a href="http://www.bart.gov/schedules/bylineresults?route=19"&gt;http://www.bart.gov/schedules/bylineresults?route=19&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>Richmond - Daly City/Millbrae</name>
+        <description>Route info page: &lt;a href="http://www.bart.gov/schedules/bylineresults?route=7"&gt;http://www.bart.gov/schedules/bylineresults?route=7&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>Warm Springs/South Fremont - Daly City</name>
+        <description>Route info page: &lt;a href="http://www.bart.gov/schedules/bylineresults?route=5"&gt;http://www.bart.gov/schedules/bylineresults?route=5&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>Warm Springs/South Fremont - Richmond</name>
+        <description>Route info page: &lt;a href="http://www.bart.gov/schedules/bylineresults?route=3"&gt;http://www.bart.gov/schedules/bylineresults?route=3&lt;/a&gt;</description>
+      </Folder>
+    </Folder><Style id="route_Antioch - SFIA/Millbrae">
+      <LineStyle>
+        <width>2</width>
+        <color>ff33ffff</color>
+      </LineStyle>
+    </Style><Style id="route_Dublin/Pleasanton - Daly City">
+      <LineStyle>
+        <width>2</width>
+        <color>ffcc9900</color>
+      </LineStyle>
+    </Style><Style id="route_Oakland Airport - Coliseum">
+      <LineStyle>
+        <width>2</width>
+        <color>ffa3cfd5</color>
+      </LineStyle>
+    </Style><Style id="route_Richmond - Daly City/Millbrae">
+      <LineStyle>
+        <width>2</width>
+        <color>ff0000ff</color>
+      </LineStyle>
+    </Style><Style id="route_Warm Springs/South Fremont - Daly City">
+      <LineStyle>
+        <width>2</width>
+        <color>ff339933</color>
+      </LineStyle>
+    </Style><Style id="route_Warm Springs/South Fremont - Richmond">
+      <LineStyle>
+        <width>2</width>
+        <color>ff3399ff</color>
+      </LineStyle>
+    </Style>
+  </Document>
+</kml>

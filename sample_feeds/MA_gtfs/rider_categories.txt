@@ -1,0 +1,6 @@
+rider_category_id,rider_category_description
+"1","Regular"
+"2","Senior (age 65)"
+"3","Children under 5 (must be accompanied by an adult)"
+"5","Youth (5-18)"
+"6","Disabled/Medicare"

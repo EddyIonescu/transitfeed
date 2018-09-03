@@ -1,0 +1,4 @@
+fare_id,price,currency_type,payment_method,transfers,transfer_duration
+2261,2.00,USD,0,,7200
+2262,2.25,USD,0,,7200
+2263,0,USD,0,,7200

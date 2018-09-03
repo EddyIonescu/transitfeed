@@ -1,0 +1,262 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,trip_short_name,bikes_allowed,wheelchair_accessible
+Foster City-Lincoln Centre Caltrain,73306,FosterCity_Lincoln_am_T01,Hillsdale Caltrain,0,,Lincoln_am,,1,1
+Foster City-Lincoln Centre Caltrain,73306,FosterCity_Lincoln_am_T02,Hillsdale Caltrain,0,,Lincoln_am,,1,1
+Foster City-Lincoln Centre Caltrain,73306,FosterCity_Lincoln_am_T03,Hillsdale Caltrain,0,,Lincoln_am,,1,1
+Foster City-Lincoln Centre Caltrain,73306,FosterCity_Lincoln_am_T06,Hillsdale Caltrain,0,,Lincoln_am,,1,1
+Foster City-Lincoln Centre Caltrain,73306,FosterCity_Lincoln_am_T07,Hillsdale Caltrain,0,,Lincoln_am,,1,1
+Foster City-Lincoln Centre Caltrain,73306,FosterCity_Lincoln_am_T08,Hillsdale Caltrain,0,,Lincoln_am,,1,1
+Foster City-Lincoln Centre Caltrain,73306,FosterCity_Lincoln_am_T09,Hillsdale Caltrain,0,,Lincoln_am,,1,1
+Foster City-Lincoln Centre Caltrain,73306,FosterCity_Lincoln_am_T10,Hillsdale Caltrain,0,,Lincoln_am,,1,1
+Foster City-Lincoln Centre Caltrain,73306,FosterCity_Lincoln_am_T04,Hillsdale Caltrain,0,,Lincoln_am,,1,1
+Foster City-Lincoln Centre Caltrain,73306,FosterCity_Lincoln_am_T05,Hillsdale Caltrain,0,,Lincoln_am,,1,1
+So. San Francisco-Oyster Point BART,73306,OP_bart_am_T06,So. San Francisco B.A.R.T.,0,,ssf_op_bart,,1,1
+So. San Francisco-Oyster Point BART,73306,OP_bart_am_T07,So. San Francisco B.A.R.T.,0,,ssf_op_bart,,1,1
+So. San Francisco-Oyster Point BART,73306,OP_bart_pm_T01,So. San Francisco B.A.R.T.,1,,ssf_op_bart_pm,,1,1
+So. San Francisco-Oyster Point BART,73306,OP_bart_pm_T02,So. San Francisco B.A.R.T.,1,,ssf_op_bart_pm,,1,1
+So. San Francisco-Oyster Point BART,73306,OP_bart_pm_T03,So. San Francisco B.A.R.T.,1,,ssf_op_bart_pm,,1,1
+So. San Francisco-Oyster Point BART,73306,OP_bart_pm_T04,So. San Francisco B.A.R.T.,1,,ssf_op_bart_pm,,1,1
+So. San Francisco-Oyster Point BART,73306,OP_bart_pm_T05,So. San Francisco B.A.R.T.,1,,ssf_op_bart_pm,,1,1
+So. San Francisco-Oyster Point BART,73306,OP_bart_pm_T06,So. San Francisco B.A.R.T.,1,,ssf_op_bart_pm,,1,1
+So. San Francisco-Oyster Point BART,73306,OP_bart_pm_T07,So. San Francisco B.A.R.T.,1,,ssf_op_bart_pm,,1,1
+So. San Francisco-Oyster Point BART,73306,OP_bart_pm_T08,So. San Francisco B.A.R.T.,1,,ssf_op_bart_pm,,1,1
+So. San Francisco-Oyster Point BART,73306,OP_bart_am_T01,So. San Francisco B.A.R.T.,0,,ssf_op_bart,,1,1
+So. San Francisco-Oyster Point BART,73306,OP_bart_am_T02,So. San Francisco B.A.R.T.,0,,ssf_op_bart,,1,1
+So. San Francisco-Oyster Point BART,73306,OP_bart_am_T03,So. San Francisco B.A.R.T.,0,,ssf_op_bart,,1,1
+So. San Francisco-Oyster Point BART,73306,OP_bart_am_T04,So. San Francisco B.A.R.T.,0,,ssf_op_bart,,1,1
+So. San Francisco-Oyster Point BART,73306,OP_bart_am_T05,So. San Francisco B.A.R.T.,0,,ssf_op_bart,,1,1
+So. San Francisco-Oyster Point Caltrain,73306,SSF_OP_caltrain_am_T01,So. San Francisco Caltrain,0,,ssf_op_caltrain,,1,1
+So. San Francisco-Oyster Point Caltrain,73306,SSF_OP_caltrain_am_T02,So. San Francisco Caltrain,0,,ssf_op_caltrain,,1,1
+So. San Francisco-Oyster Point Caltrain,73306,SSF_OP_caltrain_am_T03,So. San Francisco Caltrain,0,,ssf_op_caltrain,,1,1
+So. San Francisco-Oyster Point Caltrain,73306,SSF_OP_caltrain_am_T04,So. San Francisco Caltrain,0,,ssf_op_caltrain,,1,1
+So. San Francisco-Oyster Point Caltrain,73306,SSF_OP_caltrain_am_T05,So. San Francisco Caltrain,0,,ssf_op_caltrain,,1,1
+So. San Francisco-Oyster Point Caltrain,73306,SSF_OP_caltrain_am_T06,So. San Francisco Caltrain,0,,ssf_op_caltrain,,1,1
+So. San Francisco-Oyster Point Caltrain,73306,SSF_OP_caltrain_am_T07,So. San Francisco Caltrain,0,,ssf_op_caltrain,,1,1
+So. San Francisco-Oyster Point Caltrain,73306,SSF_OP_caltrain_am_T08,So. San Francisco Caltrain,0,,ssf_op_caltrain,,1,1
+So. San Francisco-Oyster Point Caltrain,73306,SSF_OP_caltrain_pm_T01,So. San Francisco Caltrain,1,,ssf_op_caltrain_pm,,1,1
+So. San Francisco-Oyster Point Caltrain,73306,SSF_OP_caltrain_pm_T02,So. San Francisco Caltrain,1,,ssf_op_caltrain_pm,,1,1
+So. San Francisco-Oyster Point Caltrain,73306,SSF_OP_caltrain_pm_T03,So. San Francisco Caltrain,1,,ssf_op_caltrain_pm,,1,1
+So. San Francisco-Oyster Point Caltrain,73306,SSF_OP_caltrain_pm_T04,So. San Francisco Caltrain,1,,ssf_op_caltrain_pm,,1,1
+So. San Francisco-Oyster Point Caltrain,73306,SSF_OP_caltrain_pm_T05,So. San Francisco Caltrain,1,,ssf_op_caltrain_pm,,1,1
+So. San Francisco-Oyster Point Caltrain,73306,SSF_OP_caltrain_pm_T06,So. San Francisco Caltrain,1,,ssf_op_caltrain_pm,,1,1
+So. San Francisco-Oyster Point Caltrain,73306,SSF_OP_caltrain_pm_T07,So. San Francisco Caltrain,1,,ssf_op_caltrain_pm,,1,1
+Redwoood Shores Bayshore Technology Caltrain,73306,Bayshore_wkday_drop_only_T01,Bridge Parkway,0,,baytech_2015,,1,1
+Redwoood Shores Bayshore Technology Caltrain,73306,Bayshore_wkday_T01,Bridge Parkway,0,,baytech_2015,,1,1
+Redwoood Shores Bayshore Technology Caltrain,73306,Bayshore_wkday_T02,Bridge Parkway,0,,baytech_2015,,1,1
+Redwoood Shores Bayshore Technology Caltrain,73306,Bayshore_wkday_T03,Bridge Parkway,0,,baytech_2015,,1,1
+Redwoood Shores Bayshore Technology Caltrain,73306,Bayshore_wkday_T04,Bridge Parkway,0,,baytech_2015,,1,1
+Redwoood Shores Bayshore Technology Caltrain,73306,Bayshore_wkday_T05,Bridge Parkway,0,,baytech_2015,,1,1
+Redwoood Shores Bayshore Technology Caltrain,73306,Bayshore_wkday_T08,Bridge Parkway,0,,baytech_2015,,1,1
+Redwoood Shores Bayshore Technology Caltrain,73306,Bayshore_wkday_T09,Bridge Parkway,0,,baytech_2015,,1,1
+Redwoood Shores Bayshore Technology Caltrain,73306,Bayshore_wkday_T10,Bridge Parkway,0,,baytech_2015,,1,1
+Redwoood Shores Bayshore Technology Caltrain,73306,Bayshore_wkday_T11,Bridge Parkway,0,,baytech_2015,,1,1
+Redwoood Shores Bayshore Technology Caltrain,73306,Bayshore_wkday_T12,Bridge Parkway,0,,baytech_2015,,1,1
+Redwoood Shores Bayshore Technology Caltrain,73306,Bayshore_wkday_T13,Bridge Parkway,0,,baytech_2015,,1,1
+Redwoood Shores Bayshore Technology Caltrain,73306,Bayshore_wkday_T07,Bridge Parkway,0,,baytech_2015,,1,1
+San Carlos - Commuter Caltrain,73306,sancarlos_ind_wkday_T01,Industrial,0,,sancarlos_ind,,1,1
+San Carlos - Commuter Caltrain,73306,sancarlos_ind_wkday_T02,Industrial,0,,sancarlos_ind,,1,1
+San Carlos - Commuter Caltrain,73306,sancarlos_ind_wkday_T03,Industrial,0,,sancarlos_ind,,1,1
+San Carlos - Commuter Caltrain,73306,sancarlos_ind_wkday_T04,Industrial,0,,sancarlos_ind,,1,1
+San Carlos - Commuter Caltrain,73306,sancarlos_ind_wkday_T05,Industrial,0,,sancarlos_ind,,1,1
+San Carlos - Commuter Caltrain,73306,sancarlos_ind_wkday_T06,Industrial,0,,sancarlos_ind,,1,1
+San Carlos - Commuter Caltrain,73306,sancarlos_ind_wkday_T09,Industrial,0,,sancarlos_ind,,1,1
+San Carlos - Commuter Caltrain,73306,sancarlos_ind_wkday_T10,Industrial,0,,sancarlos_ind,,1,1
+San Carlos - Commuter Caltrain,73306,sancarlos_ind_wkday_T11,Industrial,0,,sancarlos_ind,,1,1
+San Carlos - Commuter Caltrain,73306,sancarlos_ind_wkday_T12,Industrial,0,,sancarlos_ind,,1,1
+San Carlos - Commuter Caltrain,73306,sancarlos_ind_wkday_T13,Industrial,0,,sancarlos_ind,,1,1
+San Carlos - Commuter Caltrain,73306,sancarlos_ind_wkday_T14,Industrial,0,,sancarlos_ind,,1,1
+San Carlos - Commuter Caltrain,73306,sancarlos_ind_wkday_T07,Industrial,0,,sancarlos_ind,,1,1
+San Carlos - Commuter Caltrain,73306,sancarlos_ind_wkday_T08,Industrial,0,,sancarlos_ind,,1,1
+San Mateo-Norfolk Caltrain,73306,Norfolk_am_T01,,0,,norfolk_dayave2hillsdale,,1,1
+San Mateo-Norfolk Caltrain,73306,Norfolk_am_T02,Hillsdale Caltrain,0,,norfolk_morning_hillsdale,,1,1
+San Mateo-Norfolk Caltrain,73306,Norfolk_am_T03,Hillsdale Caltrain,0,,norfolk_morning_hillsdale,,1,1
+San Mateo-Norfolk Caltrain,73306,Norfolk_am_T04,Hillsdale Caltrain,0,,norfolk_morning_hillsdale,,1,1
+San Mateo-Norfolk Caltrain,73306,Norfolk_am_T05,Hillsdale Caltrain,0,,norfolk_morning_hillsdale,,1,1
+San Mateo-Norfolk Caltrain,73306,Norfolk_am_T06,Hillsdale Caltrain,0,,norfolk_morning_hillsdale,,1,1
+San Mateo-Norfolk Caltrain,73306,Norfolk_pm_T02,Hillsdale Caltrain,1,,norfolk_afternoon_hillsdale,,1,1
+San Mateo-Norfolk Caltrain,73306,Norfolk_pm_T03,Hillsdale Caltrain,1,,norfolk_afternoon_hillsdale,,1,1
+San Mateo-Norfolk Caltrain,73306,Norfolk_pm_T04,Hillsdale Caltrain,1,,norfolk_afternoon_hillsdale,,1,1
+San Mateo-Norfolk Caltrain,73306,Norfolk_pm_T05,Hillsdale Caltrain,1,,norfolk_afternoon_hillsdale,,1,1
+San Mateo-Norfolk Caltrain,73306,Norfolk_pm_T06,Hillsdale Caltrain,1,,norfolk_afternoon_hillsdale,,1,1
+San Mateo-Norfolk Caltrain,73306,Norfolk_pm_T07,Hillsdale Caltrain,1,,norfolk_afternoon_hillsdale,,1,1
+San Mateo-Norfolk Caltrain,73306,Norfolk_pm_residential_T01,Hillsdale Caltrain,1,,norfolk_hillsdale_resid_pm,,1,1
+So. San Francisco-Genesis One Tower Place BART/Caltrain,73306,Centennial_lasttrip_T01,South San Francisco,0,,ssf_centennial,,1,1
+So. San Francisco-Genesis One Tower Place BART/Caltrain,73306,Centennial_pm_T01,South San Francisco,0,,ssf_centennial,,1,1
+So. San Francisco-Genesis One Tower Place BART/Caltrain,73306,Centennial_pm_T02,South San Francisco,0,,ssf_centennial,,1,1
+So. San Francisco-Genesis One Tower Place BART/Caltrain,73306,Centennial_pm_T03,South San Francisco,0,,ssf_centennial,,1,1
+So. San Francisco-Genesis One Tower Place BART/Caltrain,73306,Centennial_pm_T04,South San Francisco,0,,ssf_centennial,,1,1
+So. San Francisco-Genesis One Tower Place BART/Caltrain,73306,Centennial_pm_T05,South San Francisco,0,,ssf_centennial,,1,1
+So. San Francisco-Genesis One Tower Place BART/Caltrain,73306,Centennial_pm_T06,South San Francisco,0,,ssf_centennial,,1,1
+So. San Francisco-Genesis One Tower Place BART/Caltrain,73306,Centennial_am_T01,South San Francisco,0,,ssf_centennial,,1,1
+So. San Francisco-Genesis One Tower Place BART/Caltrain,73306,Centennial_am_T02,South San Francisco,0,,ssf_centennial,,1,1
+So. San Francisco-Genesis One Tower Place BART/Caltrain,73306,Centennial_am_T03,South San Francisco,0,,ssf_centennial,,1,1
+So. San Francisco-Genesis One Tower Place BART/Caltrain,73306,Centennial_am_T04,South San Francisco,0,,ssf_centennial,,1,1
+So. San Francisco-Genesis One Tower Place BART/Caltrain,73306,Centennial_am_T05,South San Francisco,0,,ssf_centennial,,1,1
+So. San Francisco-Genesis One Tower Place BART/Caltrain,73306,Centennial_am_T06,South San Francisco,0,,ssf_centennial,,1,1
+So. San Francisco-Oyster Point Ferry,73306,OP_ferry_am_0645_T01,So. San Francisco Ferry,0,,ssf_op_caltrain_ferry_am,,1,1
+So. San Francisco-Oyster Point Ferry,73306,SSF_OP_ferry_am_T02,So. San Francisco Caltrain/Ferry,0,,ssf_op_ferry_am,,1,1
+So. San Francisco-Oyster Point Ferry,73306,SSF_OP_ferry_am_T03,So. San Francisco Caltrain/Ferry,0,,ssf_op_ferry_am,,1,1
+So. San Francisco-Oyster Point Ferry,73306,SSF_OP_ferry_am_T04,So. San Francisco Caltrain/Ferry,0,,ssf_op_ferry_am,,1,1
+So. San Francisco-Oyster Point Ferry,73306,SSF_OP_ferry_pm_T01,So. San Francisco Ferry,1,,ssf_op_caltrain_ferry_pm,,1,1
+So. San Francisco-Oyster Point Ferry,73306,SSF_OP_ferry_pm_T02,So. San Francisco Ferry,1,,ssf_op_caltrain_ferry_pm,,1,1
+So. San Francisco-Oyster Point Ferry,73306,SSF_OP_ferry_pm_T03,So. San Francisco Ferry,1,,ssf_op_caltrain_ferry_pm,,1,1
+So. San Francisco-Utah/Grand BART,73306,SSF_UG_bart_pm_T01,So. San Francisco B.A.R.T.,0,,ssf_ug_bart,,1,1
+So. San Francisco-Utah/Grand BART,73306,SSF_UG_bart_pm_T02,So. San Francisco B.A.R.T.,0,,ssf_ug_bart,,1,1
+So. San Francisco-Utah/Grand BART,73306,SSF_UG_bart_T01,So. San Francisco B.A.R.T.,0,,ssf_ug_bart,,1,1
+So. San Francisco-Utah/Grand BART,73306,SSF_UG_bart_T02,So. San Francisco B.A.R.T.,0,,ssf_ug_bart,,1,1
+So. San Francisco-Utah/Grand BART,73306,SSF_UG_bart_T03,So. San Francisco B.A.R.T.,0,,ssf_ug_bart,,1,1
+So. San Francisco-Utah/Grand BART,73306,SSF_UG_bart_T04,So. San Francisco B.A.R.T.,0,,ssf_ug_bart,,1,1
+So. San Francisco-Utah/Grand BART,73306,SSF_UG_bart_T05,So. San Francisco B.A.R.T.,0,,ssf_ug_bart,,1,1
+So. San Francisco-Utah/Grand BART,73306,SSF_UG_bart_T06,So. San Francisco B.A.R.T.,0,,ssf_ug_bart,,1,1
+So. San Francisco-Utah/Grand BART,73306,SSF_UG_bart_pm_T03,So. San Francisco B.A.R.T.,0,,ssf_ug_bart,,1,1
+So. San Francisco-Utah/Grand BART,73306,SSF_UG_bart_pm_T04,So. San Francisco B.A.R.T.,0,,ssf_ug_bart,,1,1
+So. San Francisco-Utah/Grand BART,73306,SSF_UG_bart_pm_T05,So. San Francisco B.A.R.T.,0,,ssf_ug_bart,,1,1
+So. San Francisco-Utah/Grand BART,73306,SSF_UG_bart_pm_T06,So. San Francisco B.A.R.T.,0,,ssf_ug_bart,,1,1
+So. San Francisco-Utah/Grand BART,73306,SSF_UG_bart_pm_T07,So. San Francisco B.A.R.T.,0,,ssf_ug_bart,,1,1
+So. San Francisco-Utah/Grand BART,73306,SSF_UG_bart_T07,So. San Francisco B.A.R.T.,0,,ssf_ug_bart,,1,1
+So. San Francisco-Utah/Grand BART,73306,SSF_UG_bart_T08,So. San Francisco B.A.R.T.,0,,ssf_ug_bart,,1,1
+So. San Francisco-Utah/Grand Caltrain,73306,SSF_UG_caltrain_noSFConf_T01,So. San Francisco Caltrain,0,,ssf_ug_caltrain,,1,1
+So. San Francisco-Utah/Grand Caltrain,73306,SSF_UG_caltrain_T02,So. San Francisco Caltrain,0,,ssf_ug_caltrain,,1,1
+So. San Francisco-Utah/Grand Caltrain,73306,SSF_UG_caltrain_T03,So. San Francisco Caltrain,0,,ssf_ug_caltrain,,1,1
+So. San Francisco-Utah/Grand Caltrain,73306,SSF_UG_caltrain_T04,So. San Francisco Caltrain,0,,ssf_ug_caltrain,,1,1
+So. San Francisco-Utah/Grand Caltrain,73306,SSF_UG_caltrain_T05,So. San Francisco Caltrain,0,,ssf_ug_caltrain,,1,1
+So. San Francisco-Utah/Grand Caltrain,73306,SSF_UG_caltrain_T06,So. San Francisco Caltrain,0,,ssf_ug_caltrain,,1,1
+So. San Francisco-Utah/Grand Caltrain,73306,SSF_UG_caltrain_T07,So. San Francisco Caltrain,0,,ssf_ug_caltrain,,1,1
+So. San Francisco-Utah/Grand Caltrain,73306,SSF_UG_caltrain_T11,So. San Francisco Caltrain,0,,ssf_ug_caltrain,,1,1
+So. San Francisco-Utah/Grand Caltrain,73306,SSF_UG_caltrain_T12,So. San Francisco Caltrain,0,,ssf_ug_caltrain,,1,1
+So. San Francisco-Utah/Grand Caltrain,73306,SSF_UG_caltrain_T13,So. San Francisco Caltrain,0,,ssf_ug_caltrain,,1,1
+So. San Francisco-Utah/Grand Caltrain,73306,SSF_UG_caltrain_T14,So. San Francisco Caltrain,0,,ssf_ug_caltrain,,1,1
+So. San Francisco-Utah/Grand Caltrain,73306,SSF_UG_caltrain_T15,So. San Francisco Caltrain,0,,ssf_ug_caltrain,,1,1
+So. San Francisco-Utah/Grand Caltrain,73306,SSF_UG_caltrain_T08,So. San Francisco Caltrain,0,,ssf_ug_caltrain,,1,1
+So. San Francisco-Utah/Grand Caltrain,73306,SSF_UG_caltrain_T09,So. San Francisco Caltrain,0,,ssf_ug_caltrain,,1,1
+So. San Francisco-Utah/Grand Caltrain,73306,SSF_UG_caltrain_T10,So. San Francisco Caltrain,0,,ssf_ug_caltrain,,1,1
+So. San Francisco-Utah/Grand Ferry,73306,SSF_UG_Ferry_Caltrain_am_noCalTrain_T03,So. San Francisco Caltrain,0,,ssf_ug_ferry,,1,1
+So. San Francisco-Utah/Grand Ferry,73306,SSF_UG_Ferry_Caltrain_am_T02,So. San Francisco Caltrain,0,,ssf_ug_ferry,,1,1
+So. San Francisco-Utah/Grand Ferry,73306,SSF_UG_Ferry_Caltrain_am_T04,So. San Francisco Caltrain,0,,ssf_ug_ferry,,1,1
+So. San Francisco-Utah/Grand Ferry,73306,SSF_UG_Ferry_Caltrain_T01,So. San Francisco Ferry at Oyster Point,1,,ssf_ug_caltrain_ferry_pm,,1,1
+So. San Francisco-Utah/Grand Ferry,73306,SSF_UG_Ferry_Caltrain_T02,So. San Francisco Ferry at Oyster Point,1,,ssf_ug_caltrain_ferry_pm,,1,1
+So. San Francisco-Utah/Grand Ferry,73306,SSF_UG_Ferry_Caltrain_T03,So. San Francisco Ferry at Oyster Point,1,,ssf_ug_caltrain_ferry_pm,,1,1
+So. San Francisco-Utah/Grand Ferry,73306,SSF_UG_Ferry_Caltrain_T04,So. San Francisco Ferry at Oyster Point,1,,ssf_ug_caltrain_ferry_pm,,1,1
+Redwood City-Midpoint Caltrain,73306,redwood_midpoint_T01,Midpoint,0,,redwoodcity_midpoint,,1,1
+Redwood City-Midpoint Caltrain,73306,redwood_midpoint_T02,Midpoint,0,,redwoodcity_midpoint,,1,1
+Redwood City-Midpoint Caltrain,73306,redwood_midpoint_T03,Midpoint,0,,redwoodcity_midpoint,,1,1
+Redwood City-Midpoint Caltrain,73306,redwood_midpoint_T04,Midpoint,0,,redwoodcity_midpoint,,1,1
+Redwood City-Midpoint Caltrain,73306,redwood_midpoint_T05,Midpoint,0,,redwoodcity_midpoint,,1,1
+Redwood City-Midpoint Caltrain,73306,redwood_midpoint_T06,Midpoint,0,,redwoodcity_midpoint,,1,1
+Redwood City-Midpoint Caltrain,73306,redwood_midpoint_T07,Midpoint,0,,redwoodcity_midpoint,,1,1
+Redwood City-Midpoint Caltrain,73306,redwood_midpoint_T08,Midpoint,0,,redwoodcity_midpoint,,1,1
+Redwood City-Midpoint Caltrain,73306,redwood_midpoint_T09,Midpoint,0,,redwoodcity_midpoint,,1,1
+Redwood City-Midpoint Caltrain,73306,redwood_midpoint_T10,Midpoint,0,,redwoodcity_midpoint,,1,1
+Redwood City-Midpoint Caltrain,73306,redwood_midpoint_T11,Midpoint,0,,redwoodcity_midpoint,,1,1
+Redwood City-Midpoint Caltrain,73306,redwood_midpoint_T12,Midpoint,0,,redwoodcity_midpoint,,1,1
+Burlingame-North BART/Caltrain,73306,North_Burlingame_pm_T01,Millbrae Intermodal Caltrain,0,,Burlingame_NorthBART_pm,,1,1
+Burlingame-North BART/Caltrain,73306,North_Burlingame_am_T01,Millbrae Intermodal Caltrain,1,,Burlingame_NorthBART_am,,1,1
+Burlingame-North BART/Caltrain,73306,North_Burlingame_am_T02,Millbrae Intermodal Caltrain,1,,Burlingame_NorthBART_am,,1,1
+Burlingame-North BART/Caltrain,73306,North_Burlingame_am_T03,Millbrae Intermodal Caltrain,1,,Burlingame_NorthBART_am,,1,1
+Burlingame-North BART/Caltrain,73306,North_Burlingame_am_T04,Millbrae Intermodal Caltrain,1,,Burlingame_NorthBART_am,,1,1
+Burlingame-North BART/Caltrain,73306,North_Burlingame_am_T05,Millbrae Intermodal Caltrain,1,,Burlingame_NorthBART_am,,1,1
+Burlingame-North BART/Caltrain,73306,North_Burlingame_am_T06,Millbrae Intermodal Caltrain,1,,Burlingame_NorthBART_am,,1,1
+Burlingame-North BART/Caltrain,73306,North_Burlingame_am_T07,Millbrae Intermodal Caltrain,1,,Burlingame_NorthBART_am,,1,1
+Burlingame-North BART/Caltrain,73306,North_Burlingame_am_T08,Millbrae Intermodal Caltrain,1,,Burlingame_NorthBART_am,,1,1
+Burlingame-North BART/Caltrain,73306,North_Burlingame_pm_T02,Millbrae Intermodal Caltrain,0,,Burlingame_NorthBART_pm,,1,1
+Burlingame-North BART/Caltrain,73306,North_Burlingame_pm_T03,Millbrae Intermodal Caltrain,0,,Burlingame_NorthBART_pm,,1,1
+Burlingame-North BART/Caltrain,73306,North_Burlingame_pm_T04,Millbrae Intermodal Caltrain,0,,Burlingame_NorthBART_pm,,1,1
+Burlingame-North BART/Caltrain,73306,North_Burlingame_pm_T05,Millbrae Intermodal Caltrain,0,,Burlingame_NorthBART_pm,,1,1
+Burlingame-North BART/Caltrain,73306,North_Burlingame_pm_T06,Millbrae Intermodal Caltrain,0,,Burlingame_NorthBART_pm,,1,1
+Burlingame-North BART/Caltrain,73306,North_Burlingame_pm_T07,Millbrae Intermodal Caltrain,0,,Burlingame_NorthBART_pm,,1,1
+Burlingame-North BART/Caltrain,73306,North_Burlingame_pm_T08,Millbrae Intermodal Caltrain,0,,Burlingame_NorthBART_pm,,1,1
+Brisbane-Bayshore Caltrain,73306,brisbane_bayshore_am_T01,Bayshore,0,,bris_bayshore_am,,1,1
+Brisbane-Bayshore Caltrain,73306,brisbane_bayshore_am_T02,Bayshore,0,,bris_bayshore_am,,1,1
+Brisbane-Bayshore Caltrain,73306,brisbane_bayshore_am_T03,Bayshore,0,,bris_bayshore_am,,1,1
+Brisbane-Bayshore Caltrain,73306,brisbane_bayshore_am_T04,Bayshore,0,,bris_bayshore_am,,1,1
+Brisbane-Bayshore Caltrain,73306,brisbane_bayshore_pm_T01,Bayshore,1,,bris_bayshore_pm,,1,1
+Brisbane-Bayshore Caltrain,73306,brisbane_bayshore_pm_T02,Bayshore,1,,bris_bayshore_pm,,1,1
+Brisbane-Bayshore Caltrain,73306,brisbane_bayshore_pm_T03,Bayshore,1,,bris_bayshore_pm,,1,1
+Brisbane-Bayshore Caltrain,73306,brisbane_bayshore_pm_T04,Bayshore,1,,bris_bayshore_pm,,1,1
+Brisbane-Crocker Park BART/Caltrain,73306,brisbane_crocker_am_nopickup_T01,Balboa Park B.A.R.T.,0,,bris_bart,,1,1
+Brisbane-Crocker Park BART/Caltrain,73306,brisbane_crocker_am_nopickup_T02,Balboa Park B.A.R.T.,0,,bris_bart,,1,1
+Brisbane-Crocker Park BART/Caltrain,73306,brisbane_crocker_am_T01,Balboa Park B.A.R.T.,0,,bris_bart,,1,1
+Brisbane-Crocker Park BART/Caltrain,73306,brisbane_crocker_am_T02,Balboa Park B.A.R.T.,0,,bris_bart,,1,1
+Brisbane-Crocker Park BART/Caltrain,73306,brisbane_crocker_am_T03,Balboa Park B.A.R.T.,0,,bris_bart,,1,1
+Brisbane-Crocker Park BART/Caltrain,73306,brisbane_crocker_am_T04,Balboa Park B.A.R.T.,0,,bris_bart,,1,1
+Brisbane-Crocker Park BART/Caltrain,73306,brisbane_crocker_am_T05,Balboa Park B.A.R.T.,0,,bris_bart,,1,1
+Brisbane-Crocker Park BART/Caltrain,73306,brisbane_crocker_am_T06,Balboa Park B.A.R.T.,0,,bris_bart,,1,1
+Brisbane-Crocker Park BART/Caltrain,73306,brisbane_crocker_am_T07,Balboa Park B.A.R.T.,0,,bris_bart,,1,1
+Brisbane-Crocker Park BART/Caltrain,73306,brisbane_crocker_am_T08,Balboa Park B.A.R.T.,0,,bris_bart,,1,1
+Brisbane-Crocker Park BART/Caltrain,73306,brisbane_crocker_am_T09,Balboa Park B.A.R.T.,0,,bris_bart,,1,1
+Brisbane-Crocker Park BART/Caltrain,73306,brisbane_crocker_pm_T01,Balboa Park B.A.R.T.,1,,bris_bart_pm2,,1,1
+Brisbane-Crocker Park BART/Caltrain,73306,brisbane_crocker_pm_T03,Balboa Park B.A.R.T.,1,,bris_bart_pm2,,1,1
+Brisbane-Crocker Park BART/Caltrain,73306,brisbane_crocker_pm_T04,Balboa Park B.A.R.T.,1,,bris_bart_pm2,,1,1
+Brisbane-Crocker Park BART/Caltrain,73306,brisbane_crocker_pm_T02,Balboa Park B.A.R.T.,1,,bris_bart_pm2,,1,1
+Brisbane-Crocker Park BART/Caltrain,73306,brisbane_crocker_pm_T05,Balboa Park B.A.R.T.,1,,bris_bart_pm2,,1,1
+Brisbane-Crocker Park BART/Caltrain,73306,brisbane_crocker_pm_T06,Balboa Park B.A.R.T.,1,,bris_bart_pm2,,1,1
+Brisbane-Crocker Park BART/Caltrain,73306,brisbane_crocker_pm_T07,Balboa Park B.A.R.T.,1,,bris_bart_pm2,,1,1
+Brisbane-Crocker Park BART/Caltrain,73306,brisbane_crocker_pm_T08,Balboa Park B.A.R.T.,1,,bris_bart_pm2,,1,1
+Brisbane-Crocker Park BART/Caltrain,73306,brisbane_crocker_pm_T09,Balboa Park B.A.R.T.,1,,bris_bart_pm2,,1,1
+Brisbane-Crocker Park BART/Caltrain,73306,brisbane_crocker_pm_T10,Balboa Park B.A.R.T.,1,,bris_bart_pm2,,1,1
+Brisbane-Crocker Park BART/Caltrain,73306,brisbane_crocker_pm_T11,Balboa Park B.A.R.T.,1,,bris_bart_pm2,,1,1
+Burlingame-Bayside BART/Caltrain,73306,Bayside_Burlingame_pm_T01,Burlingame Bayside,0,,burl_bayside_pm,,1,1
+Burlingame-Bayside BART/Caltrain,73306,Bayside_Burlingame_pm_T02,Burlingame Bayside,0,,burl_bayside_pm,,1,1
+Burlingame-Bayside BART/Caltrain,73306,Bayside_Burlingame_pm_T03,Burlingame Bayside,0,,burl_bayside_pm,,1,1
+Burlingame-Bayside BART/Caltrain,73306,Bayside_Burlingame_pm_T04,Burlingame Bayside,0,,burl_bayside_pm,,1,1
+Burlingame-Bayside BART/Caltrain,73306,Bayside_Burlingame_pm_T05,Burlingame Bayside,0,,burl_bayside_pm,,1,1
+Burlingame-Bayside BART/Caltrain,73306,Bayside_Burlingame_pm_T06,Burlingame Bayside,0,,burl_bayside_pm,,1,1
+Burlingame-Bayside BART/Caltrain,73306,Bayside_Burlingame_pm_T07,Burlingame Bayside,0,,burl_bayside_pm,,1,1
+Burlingame-Bayside BART/Caltrain,73306,Bayside_Burlingame_pm_T08,Burlingame Bayside,0,,burl_bayside_pm,,1,1
+Burlingame-Bayside BART/Caltrain,73306,Bayside_Burlingame_pm_T09,Burlingame Bayside,0,,burl_bayside_pm,,1,1
+Burlingame-Bayside BART/Caltrain,73306,Bayside_Burlingame_am_T01,Burlingame Bayside,1,,burl_bayside_am,,1,1
+Burlingame-Bayside BART/Caltrain,73306,Bayside_Burlingame_am_T02,Burlingame Bayside,1,,burl_bayside_am,,1,1
+Burlingame-Bayside BART/Caltrain,73306,Bayside_Burlingame_am_T03,Burlingame Bayside,1,,burl_bayside_am,,1,1
+Burlingame-Bayside BART/Caltrain,73306,Bayside_Burlingame_am_T04,Burlingame Bayside,1,,burl_bayside_am,,1,1
+Burlingame-Bayside BART/Caltrain,73306,Bayside_Burlingame_am_T05,Burlingame Bayside,1,,burl_bayside_am,,1,1
+Burlingame-Bayside BART/Caltrain,73306,Bayside_Burlingame_am_T06,Burlingame Bayside,1,,burl_bayside_am,,1,1
+Burlingame-Bayside BART/Caltrain,73306,Bayside_Burlingame_am_T07,Burlingame Bayside,1,,burl_bayside_am,,1,1
+Burlingame-Bayside BART/Caltrain,73306,Bayside_Burlingame_am_T08,Burlingame Bayside,1,,burl_bayside_am,,1,1
+Foster City-North BART/Caltrain,73306,North_FosterCity_am_T01,Millbrae Caltrain,0,,fostercity_millbrae_bart,,1,1
+Foster City-North BART/Caltrain,73306,North_FosterCity_am_T02,Millbrae Caltrain,0,,fostercity_millbrae_bart,,1,1
+Foster City-North BART/Caltrain,73306,North_FosterCity_am_T03,Millbrae Caltrain,0,,fostercity_millbrae_bart,,1,1
+Foster City-North BART/Caltrain,73306,North_FosterCity_am_T04,Millbrae Caltrain,0,,fostercity_millbrae_bart,,1,1
+Foster City-North BART/Caltrain,73306,North_FosterCity_am_T05,Millbrae Caltrain,0,,fostercity_millbrae_bart,,1,1
+Foster City-North BART/Caltrain,73306,North_FosterCity_am_T06,Millbrae Caltrain,0,,fostercity_millbrae_bart,,1,1
+Foster City-North BART/Caltrain,73306,North_FosterCity_am_T07,Millbrae Caltrain,0,,fostercity_millbrae_bart,,1,1
+Foster City-North BART/Caltrain,73306,North_FosterCity_am_T08,Millbrae Caltrain,0,,fostercity_millbrae_bart,,1,1
+Foster City-North BART/Caltrain,73306,North_FosterCity_pm_T01,Millbrae Caltrain,1,,fostercity_millbrae_bart_pm,,1,1
+Foster City-North BART/Caltrain,73306,North_FosterCity_pm_T02,Millbrae Caltrain,1,,fostercity_millbrae_bart_pm,,1,1
+Foster City-North BART/Caltrain,73306,North_FosterCity_pm_T03,Millbrae Caltrain,1,,fostercity_millbrae_bart_pm,,1,1
+Foster City-North BART/Caltrain,73306,North_FosterCity_pm_T04,Millbrae Caltrain,1,,fostercity_millbrae_bart_pm,,1,1
+Foster City-North BART/Caltrain,73306,North_FosterCity_pm_T05,Millbrae Caltrain,1,,fostercity_millbrae_bart_pm,,1,1
+Foster City-North BART/Caltrain,73306,North_FosterCity_pm_T06,Millbrae Caltrain,1,,fostercity_millbrae_bart_pm,,1,1
+Foster City-North BART/Caltrain,73306,North_FosterCity_pm_T07,Millbrae Caltrain,1,,fostercity_millbrae_bart_pm,,1,1
+Foster City-North BART/Caltrain,73306,North_FosterCity_pm_T08,Millbrae Caltrain,1,,fostercity_millbrae_bart_pm,,1,1
+Redwood City-Seaport Centre Caltrain,73306,RWC_Seaport_am_T01,Seaport,0,,redwoodcity_seaport,,1,1
+Redwood City-Seaport Centre Caltrain,73306,RWC_Seaport_am_T02,Seaport,0,,redwoodcity_seaport,,1,1
+Redwood City-Seaport Centre Caltrain,73306,RWC_Seaport_am_T03,Seaport,0,,redwoodcity_seaport,,1,1
+Redwood City-Seaport Centre Caltrain,73306,RWC_Seaport_am_T04,Seaport,0,,redwoodcity_seaport,,1,1
+Redwood City-Seaport Centre Caltrain,73306,RWC_Seaport_am_T05,Seaport,0,,redwoodcity_seaport,,1,1
+Redwood City-Seaport Centre Caltrain,73306,RWC_Seaport_am_T06,Seaport,0,,redwoodcity_seaport,,1,1
+Redwood City-Seaport Centre Caltrain,73306,RWC_Seaport_am_T09,Seaport,0,,redwoodcity_seaport,,1,1
+Redwood City-Seaport Centre Caltrain,73306,RWC_Seaport_am_T10,Seaport,0,,redwoodcity_seaport,,1,1
+Redwood City-Seaport Centre Caltrain,73306,RWC_Seaport_am_T11,Seaport,0,,redwoodcity_seaport,,1,1
+Redwood City-Seaport Centre Caltrain,73306,RWC_Seaport_am_T12,Seaport,0,,redwoodcity_seaport,,1,1
+Redwood City-Seaport Centre Caltrain,73306,RWC_Seaport_am_T13,Seaport,0,,redwoodcity_seaport,,1,1
+Redwood City-Seaport Centre Caltrain,73306,RWC_Seaport_am_T14,Seaport,0,,redwoodcity_seaport,,1,1
+Redwood City-Seaport Centre Caltrain,73306,RWC_Seaport_am_T07,Seaport,0,,redwoodcity_seaport,,1,1
+Redwood City-Seaport Centre Caltrain,73306,RWC_Seaport_am_T08,Seaport,0,,redwoodcity_seaport,,1,1
+San Mateo-Campus Drive Caltrain,73306,SanMateo_campus_am_T01,Laurelwood,0,,sanmateo_campus,,1,1
+San Mateo-Campus Drive Caltrain,73306,SanMateo_campus_am_T02,Laurelwood,0,,sanmateo_campus,,1,1
+San Mateo-Campus Drive Caltrain,73306,SanMateo_campus_am_T03,Laurelwood,0,,sanmateo_campus,,1,1
+San Mateo-Campus Drive Caltrain,73306,SanMateo_campus_am_T04,Laurelwood,0,,sanmateo_campus,,1,1
+San Mateo-Campus Drive Caltrain,73306,SanMateo_campus_pm_T01,Laurelwood,1,,sanmateo_campus_pm,,1,1
+San Mateo-Campus Drive Caltrain,73306,SanMateo_campus_pm_T02,Laurelwood,1,,sanmateo_campus_pm,,1,1
+San Mateo-Campus Drive Caltrain,73306,SanMateo_campus_pm_T03,Laurelwood,1,,sanmateo_campus_pm,,1,1
+San Mateo-Campus Drive Caltrain,73306,SanMateo_campus_pm_T04,Laurelwood,1,,sanmateo_campus_pm,,1,1
+San Mateo-Campus Drive Caltrain,73306,SanMateo_campus_pm_T05,Laurelwood,1,,sanmateo_campus_pm,,1,1
+San Mateo-Mariners' Island Caltrain,73306,Mariners_pm_T02,Hillsdale Caltrain,0,,Mariners_pm,,1,1
+San Mateo-Mariners' Island Caltrain,73306,Mariners_pm_T03,Hillsdale Caltrain,0,,Mariners_pm,,1,1
+San Mateo-Mariners' Island Caltrain,73306,Mariners_pm_T04,Hillsdale Caltrain,0,,Mariners_pm,,1,1
+San Mateo-Mariners' Island Caltrain,73306,Mariners_pm_T05,Hillsdale Caltrain,0,,Mariners_pm,,1,1
+San Mateo-Mariners' Island Caltrain,73306,Mariners_am_T01,Hillsdale Caltrain,1,,Mariners_am,,1,1
+San Mateo-Mariners' Island Caltrain,73306,Mariners_am_T02,Hillsdale Caltrain,1,,Mariners_am,,1,1
+San Mateo-Mariners' Island Caltrain,73306,Mariners_am_T03,Hillsdale Caltrain,1,,Mariners_am,,1,1
+San Mateo-Mariners' Island Caltrain,73306,Mariners_am_T04,Hillsdale Caltrain,1,,Mariners_am,,1,1
+San Mateo-Mariners' Island Caltrain,73306,Mariners_am_T05,Hillsdale Caltrain,1,,Mariners_am,,1,1
+San Mateo-Mariners' Island Caltrain,73306,Mariners_pm_T01,Hillsdale Caltrain,0,,Mariners_pm,,1,1

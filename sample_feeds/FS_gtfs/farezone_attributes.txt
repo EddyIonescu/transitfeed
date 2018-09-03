@@ -1,0 +1,10 @@
+zone_id,zone_name
+"670","Benicia"
+"667","Dixon"
+"1623","El Cerrito"
+"663","Fairfield"
+"116","FAST Local"
+"669","Pleasant Hill/Walnut Creek BAR"
+"664","Sacramento"
+"665","UC Davis"
+"666","Vacaville"

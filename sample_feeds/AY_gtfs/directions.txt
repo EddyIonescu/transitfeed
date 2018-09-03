@@ -1,0 +1,3 @@
+route_id,direction_id,direction
+SHUTTLE,0,Inbound
+SHUTTLE,1,Outbound

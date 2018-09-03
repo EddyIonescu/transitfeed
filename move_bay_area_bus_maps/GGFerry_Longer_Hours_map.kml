@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Document>
+    <open>1</open>
+    <Folder>
+      <name>Routes</name>
+      <visibility>0</visibility>
+      <Folder>
+        <name>&lt;b&gt;LF&lt;/b&gt;</name>
+        <description>Route info page: &lt;a href="http://goldengateferry.org/schedules/Larkspur.php"&gt;http://goldengateferry.org/schedules/Larkspur.php&lt;/a&gt;</description>
+        <Folder>
+          <name>LF</name>
+          <visibility>0</visibility>
+          <Placemark>
+            <name>LF0019 (trips: 29)</name>
+            <description>Trips using this shape (29 in total): 5956608, 5956609, 5956610, 5956611, 5956612, 5956613, 5956614, 5956615, 5956694, 5956720, 5956616, 5956617, 5956648, 5956721, 5956695, 5956618, 5956696, 5956722, 5956619, 5956620, 5956621, 5956622, 5956697, 5956723, 5956623, 5956624, 5956625, 5956626, 5956627</description>
+            <styleUrl>#route_LF</styleUrl>
+            <visibility>0</visibility>
+            <LineString>
+              <tessellate>1</tessellate>
+              <coordinates>-122.508707,37.945340 -122.489550,37.931196 -122.414263,37.866425 -122.389856,37.798453 -122.391597,37.796209</coordinates>
+            </LineString>
+          </Placemark><Placemark>
+            <name>LF0018 (trips: 29)</name>
+            <description>Trips using this shape (29 in total): 5956628, 5956629, 5956630, 5956631, 5956632, 5956633, 5956634, 5956635, 5956649, 5956698, 5956724, 5956636, 5956637, 5956638, 5956699, 5956725, 5956639, 5956640, 5956641, 5956642, 5956643, 5956700, 5956726, 5956644, 5956645, 5956701, 5956727, 5956646, 5956647</description>
+            <styleUrl>#route_LF</styleUrl>
+            <visibility>0</visibility>
+            <LineString>
+              <tessellate>1</tessellate>
+              <coordinates>-122.391597,37.796209 -122.389856,37.798453 -122.414263,37.866425 -122.489550,37.931196 -122.508707,37.945340</coordinates>
+            </LineString>
+          </Placemark>
+        </Folder>
+      </Folder><Folder>
+        <name>&lt;b&gt;SF&lt;/b&gt;</name>
+        <description>Route info page: &lt;a href="http://goldengateferry.org/schedules/Sausalito.php"&gt;http://goldengateferry.org/schedules/Sausalito.php&lt;/a&gt;</description>
+        <Folder>
+          <name>SF</name>
+          <visibility>0</visibility>
+          <Placemark>
+            <name>SF0009 (trips: 21)</name>
+            <description>Trips using this shape (21 in total): 5956576, 5956577, 5956578, 5956690, 5956708, 5956579, 5956682, 5956709, 5956580, 5956691, 5956710, 5956581, 5956683, 5956711, 5956590, 5956712, 5956684, 5956582, 5956685, 5956718, 5956591</description>
+            <styleUrl>#route_SF</styleUrl>
+            <visibility>0</visibility>
+            <LineString>
+              <tessellate>1</tessellate>
+              <coordinates>-122.478338,37.856373 -122.478718,37.856422 -122.479324,37.856810 -122.479446,37.856682 -122.478682,37.856249 -122.478718,37.856422 -122.478337,37.856373 -122.478145,37.856375 -122.439572,37.850145 -122.421707,37.843667 -122.389856,37.798453 -122.391597,37.796209</coordinates>
+            </LineString>
+          </Placemark><Placemark>
+            <name>SF0008 (trips: 21)</name>
+            <description>Trips using this shape (21 in total): 5956583, 5956584, 5956686, 5956713, 5956585, 5956692, 5956714, 5956586, 5956687, 5956715, 5956587, 5956688, 5956716, 5956592, 5956717, 5956689, 5956588, 5956693, 5956719, 5956589, 5956593</description>
+            <styleUrl>#route_SF</styleUrl>
+            <visibility>0</visibility>
+            <LineString>
+              <tessellate>1</tessellate>
+              <coordinates>-122.391597,37.796209 -122.389856,37.798453 -122.421707,37.843667 -122.439572,37.850145 -122.478145,37.856375 -122.478337,37.856373 -122.478338,37.856373</coordinates>
+            </LineString>
+          </Placemark>
+        </Folder>
+      </Folder><Folder>
+        <name>&lt;b&gt;TF&lt;/b&gt;</name>
+        <Folder>
+          <name>TF</name>
+          <visibility>0</visibility>
+          <Placemark>
+            <name>TF0005 (trips: 7)</name>
+            <description>Trips using this shape (7 in total): 5956603, 5956602, 5956601, 5956607, 5956606, 5956605, 5956604</description>
+            <styleUrl>#route_TF</styleUrl>
+            <visibility>0</visibility>
+            <LineString>
+              <tessellate>1</tessellate>
+              <coordinates>-122.391597,37.796209 -122.456308,37.873211</coordinates>
+            </LineString>
+          </Placemark><Placemark>
+            <name>TF0006 (trips: 7)</name>
+            <description>Trips using this shape (7 in total): 5956594, 5956595, 5956596, 5956597, 5956600, 5956599, 5956598</description>
+            <styleUrl>#route_TF</styleUrl>
+            <visibility>0</visibility>
+            <LineString>
+              <tessellate>1</tessellate>
+              <coordinates>-122.456308,37.873211 -122.391597,37.796209</coordinates>
+            </LineString>
+          </Placemark>
+        </Folder>
+      </Folder>
+    </Folder><Style id="route_LF">
+      <LineStyle>
+        <width>2</width>
+        <color>ffff0000</color>
+      </LineStyle>
+    </Style><Style id="route_SF">
+      <LineStyle>
+        <width>2</width>
+        <color>ffff0000</color>
+      </LineStyle>
+    </Style><Style id="route_TF">
+      <LineStyle>
+        <width>2</width>
+        <color>ffff0000</color>
+      </LineStyle>
+    </Style>
+  </Document>
+</kml>

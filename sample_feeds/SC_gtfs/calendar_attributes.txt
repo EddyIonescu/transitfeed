@@ -1,0 +1,6 @@
+service_id,service_description
+"72914","Weekdays"
+"72915","Saturday"
+"72916","Sunday"
+"74118","Aug 4th Special Service"
+"74276","49er Special Service"

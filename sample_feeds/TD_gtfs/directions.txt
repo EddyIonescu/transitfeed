@@ -1,0 +1,3 @@
+route_id,direction_id,direction
+BKSF1,0,Inbound
+BKSF1,1,Outbound

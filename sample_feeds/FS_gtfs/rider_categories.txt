@@ -1,0 +1,5 @@
+rider_category_id,rider_category_description
+"1","Regular"
+"2","Senior (65+)/ Disabled/ Medicare (SDM)"
+"3","Child (Ages 5 and Under)"
+"5","Youth (Ages 6-18)"

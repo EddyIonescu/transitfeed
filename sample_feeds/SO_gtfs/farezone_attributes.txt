@@ -1,0 +1,9 @@
+zone_id,zone_name
+"467","Zone 1"
+"463","Zone 2"
+"466","Zone 3"
+"471","Zone 4"
+"468","Zone 5"
+"464","Zone 6"
+"470","Zone 7"
+"461","Zone 8"

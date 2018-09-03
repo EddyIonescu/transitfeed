@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Document>
+    <open>1</open>
+    <Folder>
+      <name>Routes</name>
+      <visibility>0</visibility>
+      <Folder>
+        <name>&lt;b&gt;SMART&lt;/b&gt;</name>
+        <description>Sonoma County Airport to San Rafael</description>
+      </Folder>
+    </Folder><Style id="route_SMART">
+      <LineStyle>
+        <width>2</width>
+      </LineStyle>
+    </Style>
+  </Document>
+</kml>

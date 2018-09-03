@@ -1,0 +1,13 @@
+service_id,service_description
+"73086","School Trippers - Beginning August 14 (Wednesday only)"
+"73087","School Trippers - Beginning August 14 (Monday-Friday)"
+"73088","School Trippers - Beginning August 14"
+"73089","Route 29 - Summer 2018  (Weekend)"
+"73720","Route 24 (Grav. Apple Fair Service) (Saturday only)"
+"73721","Route 24 (Grav. Apple Fair Service) (Monday-Friday)"
+"73722","Year Round - Beginning August 12 (Weekend)"
+"73838","Year Round - Beginning August 12 (Saturday only)"
+"74187","Year Round - Beginning August 12 (Monday-Friday)"
+"74188","SpecialService"
+"74189","SpecialService"
+"74190","SpecialService"

@@ -1,0 +1,7 @@
+service_id,service_description
+"72835","SCHOOLDAY SERVICE (Sunday only)"
+"72836","SCHOOLDAY SERVICE (Wednesday only)"
+"72837","SCHOOLDAY SERVICE (Saturday only)"
+"72838","SCHOOLDAY SERVICE (Monday-Friday)"
+"72839","SCHOOLDAY SERVICE"
+"72840","SpecialService"

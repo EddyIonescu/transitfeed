@@ -1,0 +1,5 @@
+service_id,service_description
+"72989","Weekday except Wednesday"
+"72990","Saturday"
+"72991","Sunday"
+"73738","Wednesday"

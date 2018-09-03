@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Document>
+    <open>1</open>
+    <Folder>
+      <name>Routes</name>
+      <visibility>0</visibility>
+      <Folder>
+        <name>&lt;b&gt;10&lt;/b&gt; - 10 North City Connector</name>
+        <description>Route info page: &lt;a href="http://santarosaivl.availtec.com/InfoPoint10"&gt;http://santarosaivl.availtec.com/InfoPoint10&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;12&lt;/b&gt; - 12 Corby Ave - Roseland</name>
+        <description>Route info page: &lt;a href="http://santarosaivl.availtec.com/InfoPoint12"&gt;http://santarosaivl.availtec.com/InfoPoint12&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;15&lt;/b&gt; - 15 Stony Point Road</name>
+        <description>Route info page: &lt;a href="http://santarosaivl.availtec.com/InfoPoint15"&gt;http://santarosaivl.availtec.com/InfoPoint15&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;18&lt;/b&gt; - 18 East Circulator</name>
+        <description>Route info page: &lt;a href="http://santarosaivl.availtec.com/InfoPoint18"&gt;http://santarosaivl.availtec.com/InfoPoint18&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;19&lt;/b&gt; - 19 North Circulator</name>
+        <description>Route info page: &lt;a href="http://santarosaivl.availtec.com/InfoPoint19"&gt;http://santarosaivl.availtec.com/InfoPoint19&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;1&lt;/b&gt; - 1 Mendocino Ave</name>
+        <description>Route info page: &lt;a href="http://santarosaivl.availtec.com/InfoPoint1"&gt;http://santarosaivl.availtec.com/InfoPoint1&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;20&lt;/b&gt; - 2b Sebastopol Road</name>
+        <description>Route info page: &lt;a href="http://santarosaivl.availtec.com/InfoPoint20"&gt;http://santarosaivl.availtec.com/InfoPoint20&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;2&lt;/b&gt; - 2 Sebastopol Rd - Corporate Center</name>
+        <description>Route info page: &lt;a href="http://santarosaivl.availtec.com/InfoPoint2"&gt;http://santarosaivl.availtec.com/InfoPoint2&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;3&lt;/b&gt; - 3 Santa Rosa Ave</name>
+        <description>Route info page: &lt;a href="http://santarosaivl.availtec.com/InfoPoint3"&gt;http://santarosaivl.availtec.com/InfoPoint3&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;40&lt;/b&gt; - 4b Rincon Valley</name>
+        <description>Route info page: &lt;a href="http://santarosaivl.availtec.com/InfoPoint40"&gt;http://santarosaivl.availtec.com/InfoPoint40&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;4&lt;/b&gt; - 4 Rincon Valley</name>
+        <description>Route info page: &lt;a href="http://santarosaivl.availtec.com/InfoPoint4"&gt;http://santarosaivl.availtec.com/InfoPoint4&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;5&lt;/b&gt; - 5 Petaluma Hill Rd</name>
+        <description>Route info page: &lt;a href="http://santarosaivl.availtec.com/InfoPoint5"&gt;http://santarosaivl.availtec.com/InfoPoint5&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;6&lt;/b&gt; - 6 Fulton Road</name>
+        <description>Route info page: &lt;a href="http://santarosaivl.availtec.com/InfoPoint6"&gt;http://santarosaivl.availtec.com/InfoPoint6&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;7&lt;/b&gt; - 7 Coddington - Montgomery Village</name>
+        <description>Route info page: &lt;a href="http://santarosaivl.availtec.com/InfoPoint7"&gt;http://santarosaivl.availtec.com/InfoPoint7&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;8&lt;/b&gt; - 8 Bennett Valley</name>
+        <description>Route info page: &lt;a href="http://santarosaivl.availtec.com/InfoPoint8"&gt;http://santarosaivl.availtec.com/InfoPoint8&lt;/a&gt;</description>
+      </Folder><Folder>
+        <name>&lt;b&gt;9&lt;/b&gt; - 9 West 9th Street</name>
+        <description>Route info page: &lt;a href="http://santarosaivl.availtec.com/InfoPoint9"&gt;http://santarosaivl.availtec.com/InfoPoint9&lt;/a&gt;</description>
+      </Folder>
+    </Folder><Style id="route_10">
+      <LineStyle>
+        <width>1</width>
+        <color>ff389ff9</color>
+      </LineStyle>
+    </Style><Style id="route_12">
+      <LineStyle>
+        <width>1</width>
+        <color>ff8ea00b</color>
+      </LineStyle>
+    </Style><Style id="route_15">
+      <LineStyle>
+        <width>1</width>
+        <color>ffceac2d</color>
+      </LineStyle>
+    </Style><Style id="route_18">
+      <LineStyle>
+        <width>1</width>
+        <color>ff674827</color>
+      </LineStyle>
+    </Style><Style id="route_19">
+      <LineStyle>
+        <width>1</width>
+        <color>ff310b5e</color>
+      </LineStyle>
+    </Style><Style id="route_1">
+      <LineStyle>
+        <width>1</width>
+        <color>ffb37400</color>
+      </LineStyle>
+    </Style><Style id="route_20">
+      <LineStyle>
+        <width>1</width>
+        <color>ff912d66</color>
+      </LineStyle>
+    </Style><Style id="route_2">
+      <LineStyle>
+        <width>1</width>
+        <color>ff912d66</color>
+      </LineStyle>
+    </Style><Style id="route_3">
+      <LineStyle>
+        <width>1</width>
+        <color>ff7f01ed</color>
+      </LineStyle>
+    </Style><Style id="route_40">
+      <LineStyle>
+        <width>1</width>
+        <color>ff4ab539</color>
+      </LineStyle>
+    </Style><Style id="route_4">
+      <LineStyle>
+        <width>1</width>
+        <color>ff4ab539</color>
+      </LineStyle>
+    </Style><Style id="route_5">
+      <LineStyle>
+        <width>1</width>
+        <color>ff1ec0e9</color>
+      </LineStyle>
+    </Style><Style id="route_6">
+      <LineStyle>
+        <width>1</width>
+        <color>ff3d09b8</color>
+      </LineStyle>
+    </Style><Style id="route_7">
+      <LineStyle>
+        <width>1</width>
+        <color>ff9c4aab</color>
+      </LineStyle>
+    </Style><Style id="route_8">
+      <LineStyle>
+        <width>1</width>
+        <color>ff2f69ef</color>
+      </LineStyle>
+    </Style><Style id="route_9">
+      <LineStyle>
+        <width>1</width>
+        <color>ffc49480</color>
+      </LineStyle>
+    </Style>
+  </Document>
+</kml>

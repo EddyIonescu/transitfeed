@@ -18,6 +18,9 @@
 
 For usage information run kmlwriter.py --help
 
+Sample Usage:
+python2 kmlwriter.py input_gtfs output_kml.kml
+
 If no output filename is specified, the output file will be given the same
 name as the feed file (with ".kml" appended) and will be placed in the same
 directory as the input feed.
@@ -79,7 +82,7 @@ import os.path
 import sys
 import transitfeed
 from transitfeed import util
-
+from kml_route_styler import KMLRouteStyler
 
 class KMLWriter(object):
   """This class knows how to write out a transit feed as KML.
@@ -172,7 +175,16 @@ class KMLWriter(object):
                      1: '3',  # Subway
                      2: '5',  # Rail
                      3: '1'}  # Bus
-    width.text = type_to_width.get(route.route_type, '1')
+    # set everyone's stroke width to 2
+    width.text = '2' # type_to_width.get(route.route_type, '1')
+    if self.route_styler and self.route_styler.route_is_visible(
+        agency_id=self.agency_id,
+        route_id=route.route_id,
+    ):
+        route.route_color = self.route_styler.get_route_color(
+            agency_id=self.agency_id,
+            route_id=route.route_id,
+        )
     if route.route_color:
       color = ET.SubElement(linestyle, 'color')
       red = route.route_color[0:2].lower()
@@ -502,15 +514,20 @@ class KMLWriter(object):
     shape_id_to_trips_items = shape_id_to_trips.items()
     shape_id_to_trips_items.sort(lambda a, b: cmp(len(b[1]), len(a[1])))
 
-    folder = self._CreateFolder(parent, 'Shapes', visible)
+    folder = self._CreateFolder(parent, route.route_short_name, visible)
     for shape_id, trips in shape_id_to_trips_items:
-      trip_ids = [trip.trip_id for trip in trips]
-      name = '%s (trips: %d)' % (shape_id, len(trips))
-      description = 'Trips using this shape (%d in total): %s' % (
-          len(trips), ', '.join(trip_ids))
-      placemark = self._CreatePlacemark(folder, name, style_id, visible,
-                                        description)
-      self._CreateLineStringForShape(placemark, schedule.GetShape(shape_id))
+      if self.route_styler.shape_is_visible(
+          agency_id=self.agency_id,
+          route_id=route.route_id or route.route_route_short_name,
+          shape_id=shape_id,
+      ):
+          trip_ids = [trip.trip_id for trip in trips]
+          name = '%s (trips: %d)' % (shape_id, len(trips))
+          description = 'Trips using this shape (%d in total): %s' % (
+              len(trips), ', '.join(trip_ids))
+          placemark = self._CreatePlacemark(folder, name, style_id, visible,
+                                            description)
+          self._CreateLineStringForShape(placemark, schedule.GetShape(shape_id))
     return folder
 
   def _CreateRouteTripsFolder(self, parent, route, style_id=None, schedule=None):
@@ -617,6 +634,13 @@ class KMLWriter(object):
               if route_type is None or route.route_type == route_type]
     if not routes:
       return None
+    if self.route_styler is not None:
+        self.route_styler.validate_csv_input(
+            agency_id=self.agency_id,
+            route_ids=[
+                (route.route_id or route.route_short_name) for route in routes
+            ],
+        )
     routes.sort(key=lambda x: GetRouteName(x))
 
     if route_type is not None:
@@ -639,9 +663,15 @@ class KMLWriter(object):
       route_folder = self._CreateFolder(routes_folder,
                                         GetRouteName(route),
                                         description=GetRouteDescription(route))
-      self._CreateRouteShapesFolder(schedule, route_folder, route,
-                                    style_id, False)
-      self._CreateRoutePatternsFolder(route_folder, route, style_id, False)
+      if self.route_styler and self.route_styler.route_is_visible(
+          agency_id=self.agency_id,
+          route_id=(route.route_id or route.route_short_name),
+      ):
+          self._CreateRouteShapesFolder(schedule, route_folder, route,
+                                        style_id, False)
+      # Adds straight lines between points and is difficult to remove
+      # (have to manually hide from each route)
+      # self._CreateRoutePatternsFolder(route_folder, route, style_id, False)
       if self.show_trips:
         self._CreateRouteTripsFolder(route_folder, route, style_id, schedule)
     return routes_folder
@@ -706,7 +736,10 @@ class KMLWriter(object):
     doc = ET.SubElement(root, 'Document')
     open_tag = ET.SubElement(doc, 'open')
     open_tag.text = '1'
-    self._CreateStopsFolder(schedule, doc)
+    # Showing all the stops is really messy and is unnecessary for
+    # citywide/regional diagrams - also reduces file size, making
+    # output more usable for web apps
+    # self._CreateStopsFolder(schedule, doc)
     if self.split_routes:
       route_types = set()
       for route in schedule.GetRouteList():
@@ -717,7 +750,10 @@ class KMLWriter(object):
         self._CreateRoutesFolder(schedule, doc, route_type)
     else:
       self._CreateRoutesFolder(schedule, doc)
-    self._CreateShapesFolder(schedule, doc)
+    # Routes have shapes (at least for Bay Area / 511.org) so this isn't needed
+    # - also doesn't show which route a shape corresponds to so makes it difficult
+    # to manually edit based on route
+    # self._CreateShapesFolder(schedule, doc)
 
     # Make sure we pretty-print
     self._SetIndentation(root)
@@ -765,6 +801,14 @@ https://github.com/google/transitfeed/wiki/KMLWriter
   parser.add_option('--show_stop_hierarchy', action='store_true',
                     dest='show_stop_hierarchy',
                     help='include station-stop hierarchy info in output')
+  # Required for adding route styling (color and selection) via CSV
+  # see kml_route_styler.py for context
+  parser.add_option('--style_csv_path', action='store', type='string',
+                    dest='style_csv_path',
+                    help='path to the CSV file required for route styling')
+  parser.add_option('--agency_id', action='store', type='string',
+                    dest='agency_id',
+                    help='agency_id to be used for selecting routes in CSV')
 
   parser.set_defaults(altitude_per_sec=1.0)
   options, args = parser.parse_args()
@@ -798,7 +842,11 @@ https://github.com/google/transitfeed/wiki/KMLWriter
          e.FormatContext(),
          transitfeed.EncodeUnicode(e.FormatProblem())))
     sys.exit(1)
-                         
+
+  route_styler = None
+  if options.style_csv_path is not None:
+      route_styler = KMLRouteStyler(options.style_csv_path)
+
   print "Writing %s" % output_path
   writer = KMLWriter()
   writer.show_trips = options.show_trips
@@ -807,6 +855,8 @@ https://github.com/google/transitfeed/wiki/KMLWriter
   writer.date_filter = options.date_filter
   writer.shape_points = options.shape_points
   writer.show_stop_hierarchy = options.show_stop_hierarchy
+  writer.route_styler = route_styler
+  writer.agency_id = options.agency_id
   writer.Write(feed, output_path)
 
 

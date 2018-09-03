@@ -1,0 +1,14 @@
+route_id,direction_id,direction
+11114,0,East
+11114,1,West
+11113,0,West
+11113,1,East
+11112,0,South
+11112,1,North
+11110,0,North
+11110,1,South
+11189,0,East
+11189,1,West
+11188,0,North
+11188,1,South
+11187,0,North
